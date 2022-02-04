@@ -1,6 +1,16 @@
-# H - Suppose We Are Israel (James S McCaw D.D.)
-# WHAT DIFFERENCE DOES IT MAKE?
+---
+title: "Suppose We Are Israel"
+description: "meta description"
+images:
+  - "images/post/03.jpg"
+date: 2021-01-25T11:33:57+06:00
+author: "James S McCaw D.D."
+tags: ["Alarm", "Clock"]
+categories: ["LifeStyle"]
+draft: false
+---
 
+# WHAT DIFFERENCE DOES IT MAKE?
  
 PRACTICALLY every great discovery has had to travel the rocky road to popular recognition. The truth concerning Ten Tribed Israel is no exception to this well-nigh general rule.
 While, ordinarily, that which has been patently revealed cannot he called a discovery, the hiding and bringing to light of what has been revealed can be so classed; especially when it remained hidden from the great body of Bible students and commentators through the centuries. For this reason the discovery of the facts summed up in what is known as **"The Israel Truth"** ranks among the highest of Biblical attainments in the last one hundred years.
