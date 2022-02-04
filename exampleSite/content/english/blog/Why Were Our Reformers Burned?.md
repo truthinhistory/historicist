@@ -17,7 +17,9 @@ For one thing, I advise you to resist manfully the efforts now being made to un-
 
 Let us have no peace with Rome till Rome abjures her errors and is at peace with Christ. When Rome does that, and not till then, it will be time to talk of re-union with her. But till then the vaunted movement for a "Reunion of Western Churches" is an insult to Christianity. Read your Bibles and be armed with Scriptural arguments. A Bible-reading laity is a nation's surest defense against error.
 Read history, and see what Rome did in days gone by. Read how she trampled on your country's liberties, plundered your forefather's pockets, and kept the whole nation ignorant and immoral.
+
 # JESUS CHRIST - THE WAY OF SALVATION
+
 "Come unto Me", says the Savior, "all ye that labor and are heavy laden, and I will give you rest" - "He that believed' on the Son shall not perish, but have eternal life" - "He that believed' on Him is not condemned." - "He that corned' unto Me I will in no wise cast out." Our Lord Jesus Christ is the only mediator between God and man, and He mites you to come to Him personally for Salvation.
 
 To be saved, is to be delivered in this present life from the guilt of sin, by faith in Jesus Christ, the Savior. It is to be pardoned, justified, and freed from every. charge of sin, by faith in Christ's blood and mediation. Whosoever with his heart believes on the Lord Jesus Christ. is a saved soul. He shall not perish.
