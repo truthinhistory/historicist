@@ -1,4 +1,15 @@
-# H - Unfulfilled Prophecy as of 70 AD
+---
+title: "Unfulfilled Prophecy as of 70 AD"
+description: "meta description"
+images:
+  - "images/post/03.jpg"
+date: 2021-01-25T11:33:57+06:00
+author: "Lubana Era"
+tags: ["Alarm", "Clock"]
+categories: ["LifeStyle"]
+draft: false
+---
+
 According to Preterism, all prophecy given must have found fulfillment during the period between its origin and 70 AD, and some Preterists extend that to the fall of Pagan Rome in 410 AD.
 Again, timing is the issue. Historicists believe many prophecies have not been fulfilled or were fulfilled after 410 AD. Read the following carefully and prayerfully using your common sense.
 The prophecy chosen for this little booklet is the well-known story found in Daniel 2 of Babylonian King Nebuchadnezzar and his dream of a great image.
