@@ -1,4 +1,15 @@
-# H - The Vials of Wrath - Revelation 16:1
+---
+title: "The Vials of Wrath - Revelation 16:1"
+description: "meta description"
+images:
+  - "images/post/03.jpg"
+date: 2021-01-25T11:33:57+06:00
+author: "Lubana Era"
+tags: ["Alarm", "Clock"]
+categories: ["LifeStyle"]
+draft: false
+---
+
 Much discussion has been indulged in respecting these last "plagues," and what facts of history answer to each separate "vial." As they were of no special importance to our main subject we embody our opinions of these plagues in this place simply as confirmatory evidence of the truth of our conclusions respecting the death blow to the Papacy and evidence of the truth of scripture prophecy.
 It is to be noticed that the first vial was poured out "upon the earth," from which arose the "beast" of Rev. 13:11 which has generally been held to be a symbol of the ecclesiastical branch of the Papacy.
 Hence the "noisome and grievous sore" indicates a pestilential moral atmosphere, and a foul spirit of opposition and infidelity among the adherents of the Church, which could only find its counterpart in the demoniac rage of the Catholic people of France and even the defection of the bishops and clergy, as stated in chap. 10.
@@ -9,5 +20,3 @@ The third vial was poured out "upon the rivers and fountains of waters; and they
 Napoleon compelled the attendance of Pope Pius VII at his coronation, "not to confer a crown but to adorn a ceremony." Could humiliation be more complete! Yes, for the fifth vial was poured out "upon the seat of the beast, and his kingdom was full of darkness." This limits the time and place of these events with unmistakable certainty, for no facts of history so completely fill the conditions of the prophecy as the spoliation of the Vatican treasures, the heavy indemnity levied, the dismemberment of the States of the Church, and the Pope's power declared to be ended. Napoleon further degraded him by making him a French subject and a salaried dependant of the French Court, with an annual income of 80,000 pounds.
 The sixth vial we have already spoken of as relating to the quiet drying up of Turkey. The seventh vial is yet to be poured out and is near at hand.
 The revolutions of 1848, when every throne in the Latin World "reeled to and fro like a drunken man," gave evidence of their tottering condition, while the closing scenes of the Ecumenical Council and the preparations to deify the Pope, became the occasion of other misfortunes "to consume and destroy his kingdom unto the end."
-
-#historicist
