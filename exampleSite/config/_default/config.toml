@@ -6,7 +6,7 @@ hasCJKLanguage = true
 paginate = "6"
 summaryLength = "10"
 theme = "Historicist"
-timeZone = "UTC-6"
+timeZone = "UTC"
 title = "Historicist biblical interpretation"
 [caches.assets]
 dir = ":resourceDir/_gen"
