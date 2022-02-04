@@ -1,17 +1,17 @@
 ---
-title: "Christs Second Coming and Unfulfilled Prophecies"
-description: "meta description"
+title: Christs Second Coming and Unfulfilled Prophecies
+description: meta description
 images:
-- "images/post/05.jpg"
+- images/post/05.jpg
 date: 2021-01-25T16:56:47.000+06:00
-author: "V. K. VAN DE VENTER, Ph. M."
+author: Robert Caringola
 tags:
-- "Futurism"
-- "Biblical Symbols"
+- Futurism
+- Biblical Symbols
 categories:
-- "Futurism"
----
+- Futurism
 
+---
 A significant error, and the Scriptural responses to that error, are found below.
 Some Preterists believe that although Christ did come at Pentecost (33 AD) and 70 AD, He will make a final appearance at the end of the world (age). Others strongly maintain that His second appearance was a spiritual one in 70 AD and that is the end of it.
 
