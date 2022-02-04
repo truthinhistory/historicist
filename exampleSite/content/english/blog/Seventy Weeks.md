@@ -1,4 +1,15 @@
-# H - Seventy Weeks
+---
+title: "Seventy Weeks"
+description: "meta description"
+images:
+  - "images/post/03.jpg"
+date: 2021-01-25T11:33:57+06:00
+author: "Lubana Era"
+tags: ["Alarm", "Clock"]
+categories: ["LifeStyle"]
+draft: false
+---
+
 # The Jesuits
 The Jesuits are a religious order of the Roman Catholic church. Their proper title is the "Society of Jesus." Originally they were called Compania de Jesus, which is Spanish for "(military) company of Jesus." They were founded (1534-39) by Ignatius of Loyola. He drafted the rules that still govern the society. The training of a Jesuit is long and rigorous. Though not often taught, they were basically founded to combat the Reformation. Jesuit leaders played a major role in Rome's Counter-Reformation. In the 16th and 17th century, this corps labored with measured success in reconverting Protestant areas in South and West Germany, Hungary, France and Poland. They also made several aggressive attempts to reconvert England.
 The Christian Church is basically unaware that the futurist school came from this society's scholars. Jesuit priests have been known throughout history as the most wicked political arm of the Roman Catholic church. Edmond Paris, in his scholarly work, The Secret History of the Jesuits, reveals and documents much of this information. Their political intrigue has caused them to be banned from several nations throughout the course of their dubious history. Here is a brief list of nations, and provinces with the dates they expelled the Jesuit order: Portugal al 1759, France 1764, Spain 1767, Naples 1767, Parma and Russia 1820. Several of these nations have once again allowed them entrance. The popes themselves know how wicked this order is. There is much evidence to implicate them in the death of Pope Clement XIV, who was poisoned in 1773.
