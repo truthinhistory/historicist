@@ -1,4 +1,14 @@
-# H - The Times of the Gentiles
+---
+title: "The Times of the Gentiles"
+description: "meta description"
+images:
+  - "images/post/03.jpg"
+date: 2021-01-25T11:33:57+06:00
+author: "Lubana Era"
+tags: ["Alarm", "Clock"]
+categories: ["LifeStyle"]
+draft: false
+---
 
 When Nebuchadnezzar is told by Daniel in the interpretation of the king's wonderful dream that seven times should pass over him, and a beast's heart should be given him until he should learn that the Most High ruleth in the heavens and on earth, we judge that seven literal years are intended, and so it is generally held. But when God declares in respect to the national life of Israel that He would punish them yet seven times if they continued to disregard his will, we judge that a much longer time is intended, by so much as the life of a nation is longer than that of an individual, extending even to a cycle of seven years of years or 2520 years.
 This view is wonderfully sustained when we come to apply the facts of history to the career of Israel; for, if we take 1776 as the close of her long life of captivity and oppression in one form or another under the iron heel of the Gentiles, we find that the commencement of this cycle carries us back to 744 B.C., the very time when Israel began to be carried captive by the Assyrians under Pul and Tiglath-pileser, and their places supplied by a foreign population.
