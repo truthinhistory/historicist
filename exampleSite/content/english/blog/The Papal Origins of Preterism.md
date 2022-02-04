@@ -1,4 +1,15 @@
-# H - The Papal Origins of Preterism
+---
+title: "The Papal Origins of Preterism"
+description: "meta description"
+images:
+  - "images/post/03.jpg"
+date: 2021-01-25T11:33:57+06:00
+author: "Lubana Era"
+tags: ["Alarm", "Clock"]
+categories: ["LifeStyle"]
+draft: false
+---
+
 To lay further questions and objections to rest, another school of interpretation was developed. So just how and when did the Preterist school of prophetic interpretation begin? Dr. Guinness in his book The Approaching End of the Age answers that thought-provoking question with this observation:
 The first or PRETERIST scheme, considers these prophecies to have been fulfilled in the downfall of the Jewish nation and the old Roman Empire, limiting their range thus to the first six centuries of the Christian era, and making Nero Antichrist.
 This scheme originated with the Jesuit Alcazar toward the end of the sixteenth century; it has been held and taught under various modifications by Grotuis, Hammond, Bossuet, Eichhorn and other German commentators, Moses Stuart, and Dr. Davidson. It has few supporters now, and need not be described more at length.
