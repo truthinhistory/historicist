@@ -1,4 +1,15 @@
-# H - The Reformation in Prophecy
+---
+title: "The Reformation in Prophecy"
+description: "meta description"
+images:
+  - "images/post/03.jpg"
+date: 2021-01-25T11:33:57+06:00
+author: "Lubana Era"
+tags: ["Alarm", "Clock"]
+categories: ["LifeStyle"]
+draft: false
+---
+
 # HOSEA'S THIRD DAY:
 "Come and let us return unto the Lord: for He hath torn and He will heal us; He hath smitten; and He will bind us up. After two days will He revive us: in the third day He will raise us up and we shall live in His sight." (Hosea Ch.6 v.1 & 2).
 Now according to the Scriptural symbolism a "prophetic day" can be a period of 1,000 years.
