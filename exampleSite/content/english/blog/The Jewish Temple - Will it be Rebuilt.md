@@ -1,4 +1,15 @@
-# H - The Jewish Temple - Will it be Rebuilt
+---
+title: "The Jewish Temple - Will it be Rebuilt"
+description: "meta description"
+images:
+  - "images/post/03.jpg"
+date: 2021-01-25T11:33:57+06:00
+author: "Lubana Era"
+tags: ["Alarm", "Clock"]
+categories: ["LifeStyle"]
+draft: false
+---
+
 Among the evangelical and fundamental elements of modern Christianity, there seems to be a strange infatuation with anything that is considered 'Jewish'. There is presently a strong emphasis being placed upon the Jewish Torah, Jewish traditions, Jewish history, Jewish prayer shawls, Jewish symbols, Jewish songs, Jewish rights, Jewish land and the Jewish people. For the last forty years in our churches there has been taking place a major shift from a Christ-centered to a man-centered theology. In no area of theological thought is this shift more evident than in eschatology (the doctrine of last things), generally known as prophecy. Surprisingly, the paramount object of most prophetic teaching is centered on one people known as the Jews. Where once ecclesiology (the doctrine of the church) and soteriology (the doctrine of salvation) were preached with power and spiritual authority, has now given way to a message of Judaistic pre-eminence.
 There are ministries that are wholly devoted to promoting the Jewish cause in Palestine in total disregard to the rights and welfare of the other occupants of the land. Currently, due to the influence of the secular news media, the 'Christian' pulpit has taken sides in the Middle East conflict by closing their eyes to the Biblical facts of history and prophecy.
 # RELIGIOUS FETISHISM
