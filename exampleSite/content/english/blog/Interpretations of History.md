@@ -1,5 +1,15 @@
-# H - Interpretations of History
-WRITTEN BY CHARLES A. JENNINGS 
+---
+title: "Interpretations of History"
+description: "meta description"
+images:
+  - "images/post/03.jpg"
+date: 2021-01-25T11:33:57+06:00
+author: "Charles A. Jennings"
+tags: ["Alarm", "Clock"]
+categories: ["LifeStyle"]
+draft: false
+---
+
 The definition of the word **HISTORY** is "an account of what has happened in the life and development of a people, country, institution, etc., usually with an analysis and explanation." Looking back through the events of time gives the informed observer insight into the all-important questions, such as the origin and gradual developments of any race, nation or people. Accurate historical accounts tells exactly what happened in past events, but it is the meaning and interpretation of those events where a difference of opinions arise. Because of these differing opinions, a number of interpretations have been set forth by historians in an effort to explain the purpose of past events.
 If any historian or philosopher can satisfactorily explain to himself and his peers what transpired in the past; he therefore feels he can give a purposeful explanation of the present and the future. When examining each interpretation of history it is evident that each is based upon two major premises in the minds of their proponents: 
 	1	Their concept of the person of Almighty God, and 
