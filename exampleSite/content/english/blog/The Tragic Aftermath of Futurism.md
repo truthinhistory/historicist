@@ -1,4 +1,15 @@
-# H - The Tragic Aftermath of Futurism
+---
+title: "The Tragic Aftermath of Futurism"
+description: "meta description"
+images:
+  - "images/post/03.jpg"
+date: 2021-01-25T11:33:57+06:00
+author: "Lubana Era"
+tags: ["Alarm", "Clock"]
+categories: ["LifeStyle"]
+draft: false
+---
+
 For the last 175 years the Futuristic prophetic viewpoint has been gaining prominence within evangelical Christianity. During that time its influence has increased from a trickle to an overwhelming flood-tide in doctrinal statements and evangelistic preaching. The curriculum of most Bible colleges and theological seminaries have totally ignored the prophetic viewpoints of our Protestant Reformation fathers and other great Bible scholars of the past. Instead, they have strictly adopted the viewpoint of prophecy which had its origin among the Jesuit priesthood of the Roman Catholic Church's counter-reformation. It was picked up by the Plymouth Brethren churches of Great Britain and then brought to the United States and widely promoted which influenced multiplied thousands of ministers and laymen alike.
 Within the last seventy-five years or so ever since the "fundamentalists" accepted Futurism, there has been a plethora of sermons and written material that has thoroughly convinced millions of Christians that it is the truth of God's Word. They are so thoroughly convinced that most are more than willing to break fellowship with other believers and even condemn them to the region of the eternally damned over any disagreement or denial of their belief. Very few other religious issues have created more modern pharisees within the ranks of the body of Christ.
 Many sincere saints have contacted this ministry and expressed their fear and apprehension to even mention in their church fellowships their doubts about the rapture. Some have even been excommunicated and considered as heretics. A classic case is a recent letter that we received from some truth-seeking trembling souls. They wrote; "my pastor says there is a rapture before the tribulation, and if I don't believe his way, I can leave the church. Please, please help me. I am very depressed and anxiety ridden, as is my wife. We are so scared of being kicked out of the church if we disagree with the pastor. Our nerves are a jumble every time we listen to him. He sends shivers up our spines. I want the truth! I want the truth! Signed __________"
