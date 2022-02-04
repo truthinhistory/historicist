@@ -1,4 +1,15 @@
-# H - Why Were Our Reformers Burned?
+---
+title: "Why Were Our Reformers Burned?"
+description: "meta description"
+images:
+  - "images/post/03.jpg"
+date: 2021-01-25T11:33:57+06:00
+author: "Lubana Era"
+tags: ["Alarm", "Clock"]
+categories: ["LifeStyle"]
+draft: false
+---
+
 # THE DUTY OF ALL CHRISTIANS
 For one thing, I advise you to resist manfully the efforts now being made to un-Protestantize England, and to bring her once more into subjection to Popery. Let us not go back to ignorance, superstition. priestcraft, and irrunorality. Our forefathers tried Popery long ago, and threw it off with disgust and indignation.
 Let us have no peace with Rome till Rome abjures her errors and is at peace with Christ. When Rome does that, and not till then, it will be time to talk of re-union with her. But till then the vaunted movement for a "Reunion of Western Churches" is an insult to Christianity. Read your Bibles and be armed with Scriptural arguments. A Bible-reading laity is a nation's surest defense against error.
