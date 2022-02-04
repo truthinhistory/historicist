@@ -1,5 +1,5 @@
 ---
-title: Why Were Our Reformers Burned?
+title: "Why Were Our Reformers Burned?"
 description: meta description
 images:
 - images/post/03.jpg
@@ -33,7 +33,7 @@ The Roman Catholic Church teaches that no one can be Saved outside the Roman Cat
 
 BISHOP J.0 RYLE.
 
-# WHY WERE OUR REFORMERS BURNED?
+### WHY WERE OUR REFORMERS BURNED?
 
 It is fashionable in some quarters to deny that there is any such thing as certainty about religious truth. or any opinions for which it is worth while to be burned. Yet, 300 years ago, there were men who were certain they had found out truth, and were content to die for their opinions. - It is fashionable in other quarters to leave out all the unpleasant things in history, and to paint every-thing with a rose-colored hue A very popular history of our English Queens hardly mentions the martyrdoms of Queen Mary's days! Yet Mary was not called "Bloody Mary" without reason, and scores of Protestants were burned in her reign. - Last, but not least, it is thought very bad taste in many quarters to say anything which throws discredit on the Church of Rome Yet it is as certain that the Romish Church burned our English Reformers as it is that William the Conqueror won the battle of Hastings.
 
@@ -44,7 +44,7 @@ Edward VI, "that incomparable young prince," as Bishop Burnet justly calls him, 
 After a foolish and deplorable effort to obtain the crown for Lady Jane Grey, Edward was succeeded by his eldest sister, Mary, daughter of Henry. VIII and his first Queen, Catherine of Aragon, and best known in English history. by. the ill-omened name of Bloody Mary." Mary had been brought up from her infancy as a rigid adherent of the Romish Church. She was, in fact, a ver) Papist of Papists, conscientious, zealous, bigoted. and narrow-minded in the extreme.
 She began at once to pull down her brother's work in every possible way, and to restore Popery in its worst and most offensive forms. Step by step she and her councillors marched back to Rome, trampling down one by one every obstacle, and as thorough as Lord Strafford in going straight forward to their mark. The Mass was restored; the English service was taken away; the works of Luther, Zwingle, Calvin, Tyndale, Bucer, Latimer, Hooper, and Cranmer were proscribed. Cardinal Pole was invited to England. The foreign Protestants resident in England were banished.
 
-# RETURN TO ROME OR BURN
+### RETURN TO ROME OR BURN
 
 The leading divines of the Protestant Church of England were deprived of their offices, and, while some escaped to the Continent, many were put in prison. 'The old statutes against heresy were once more brought forward, primed and loaded. And thus by the beginning of 1555 the stage was cleared, and that bloody tragedy, in which Bishops Bonner and Gardiner played so prominent a part was ready to begin.
 For, unhappily for the credit of human nature, Mary's advisers were not content with depriving and imprisoning the leading English Reformers. It was resolved to make them adjure their principles, or to put them to death. One by one they were called before special Commissions, examined about their religious opinions, and called upon to recant, on pain of death if they refused, No third course, or alternative was left to them.
@@ -55,39 +55,33 @@ It is a broad fact that during the four last years of Queen Mary's reign no less
 
 It is a broad fact that these 288 sufferers were not put to death for any offense against property or person. They were not rebels against the Queen's authority, caught red-handed in arms. They were not thieves, or murderers, or drunlcards, or unbelievers, or men and women of immoral lives. On the contrary, they were, some of the holiest, purest, and best Christians in England, and several of them the most learned men of their day.
 
-# THE CHURCH OF ROME RESPONSIBLE
+### THE CHURCH OF ROME RESPONSIBLE
 
-For one thing, I ask my readers never to forget that for the burning of our Reformers the Church of Rome is wholly and entirely responsible.
+For one thing, I ask my readers never to forget that for the burning of our Reformers the Church of Rome is wholly and entirely responsible. For another thing, I wish my readers to remember that the burning of the Marian martyrs is an act that the Church of Rome has never repudiated, apologized for, or repented of, down to the present day. There stands the huge blot in her escutcheon; and there stands the huge fact side by side, that she has never made any attempt to wipe it away. Never has she repented of her treatment of the Vaudois and the Albigenses: - never has she repented of the wholesale murders of the Spanish Inquisition. never has she repented of the massacre of St Bartholomew; - never has she repented of the burning of the English Reformers.
 
-For another thing, I wish my readers to remember that the burning of the Marian martyrs is an act that the Church of Rome has never repudiated, apologized for, or repented of, down to the present day. There stands the huge blot in her escutcheon; and there stands the huge fact side by side, that she has never made any attempt to wipe it away. Never has she repented of her treatment of the Vaudois and the Albigenses: - never has she repented of the wholesale murders of the Spanish Inquisition. never has she repented of the massacre of St Bartholomew; - never has she repented of the burning of the English Reformers.
+We should make a note of that fact, and let it sink down into our minds. Rome never changes. Rome will never admit that she has made mistakes. She burned our English Reformers 300 years ago. She tried hard to stamp out by violence the Protestantism which she could not prevent spreading by. arguments. If Rome had only. the power, I am not sure that she would not attempt to play the whole game over again. The question may now arise in our minds, Who were the leading English Reformers that were burned? What were their names, and what were the circumstances attending their deaths? These are questions which may very properly be asked. and questions to which I proceed at once to give an answer.
 
-We should make a note of that fact, and let it sink down into our minds. Rome never changes. Rome will never admit that she has made mistakes. She burned our English Reformers 300 years ago. She tried hard to stamp out by violence the Protestantism which she could not prevent spreading by. arguments. If Rome had only. the power, I am not sure that she would not attempt to play the whole game over again.
-The question may now arise in our minds, Who were the leading English Reformers that were burned? What were their names, and what were the circumstances attending their deaths? These are questions which may very properly be asked. and questions to which I proceed at once to give an answer.
-
-# JOHN ROGERS BURNED
+### JOHN ROGERS BURNED
 
 The first leading English Reformer who broke the ice and crossed the river, as a martyr in Mary's reign, was John Rogers, a London Minister, Vicar of St. Sepulchre's and Prebendary and Reader of Divinity at St. Paul's. He was burned in Smithfield on Monday, the 4th February, 1555. Rogers was born at Deritend, in the parish of Aston, near Birmingham.
 
 He was a man who, in one respect, had done more for the cause of Protestantism than any of his fellow-sufferers. In saying this I refer to the fact that he had assisted Tyndale and Coverdale in bringing out a most important version of the English Bible, a version commonly known as Matthews' Bible Indeed, he was condemned as "Rogers, alias Matthews." This circumstance, in all human probability, made him a marked man, and was one cause why he was the first who was brought to the stake.
 
-On the morning of his martyrdom he was roused hastily in his
-cell in Newgate, and hardly allowed time to dress himself. He was then led forth to Smithfield on foot, within sight of the Church of St. Sepulchre, where he had preached, and through the streets of the parish where he had done the work of a pastor.
+On the morning of his martyrdom he was roused hastily in his cell in Newgate, and hardly allowed time to dress himself. He was then led forth to Smithfield on foot, within sight of the Church of St. Sepulchre, where he had preached, and through the streets of the parish where he had done the work of a pastor.
 
 By the wayside stood his wife and ten children (one a baby) whom the diabolical cruelty of Bishop Bonnor had flatly refused him leave to see in prison. He just saw them, but was hardly allowed to stop, and then walked on calmly to the stake, repeating the 51st Psalm. An immense crowd lined the street, and filled every available spot in Smithfield.
 
 Up to that day men could not tell how English Reformers would behave in the face of death, and could hardly believe that Prebendaries and Dignitaries would actually give their bodies to be burned for their religion. But when they saw John Rogers, the first martyr, walking steadily, and unflinchingly into a fiery grave, the enthusiasm of the crowd lcnew no bounds. They rent the air with thunders of applause. Even Noailles, the French Ambassador, wrote home a description of the scene, and said that Rogers went to death "as if he was walking to his wedding." By God's great mercy he died with comparative ease. And so the first Marian martyr passed away.
 
-# BISHOP HOOPER, BURNED
+### BISHOP HOOPER, BURNED
 
 The second leading Reformer who died for Christ's truth in Mary's reign was John Hooper, Bishop of Gloucester. He was burned at Gloucester on Friday, the 9th February, 1555.
 
-Hooper was a Somersetshire man by birth. In many respects he was, perhaps, the noblest martyr of them all. Of all Edward the Sixth's bishops, none has left behind him a higher reputation for personal holiness, and diligent preaching and working in his diocese.
-
-A man like Hooper, firm, stern, not naturally genial, unbending and unsparing in his denunciation of sin, was sure to have many enemies. He was one of the first marked for destruction as soon as Popery was restored. He was summoned to London at a very,' early stage of the Marian persecution, and, after lingering eighteen months in prison, and going through the form of examination by Bonner, Gardiner, Tunstall, and Day., was degraded from his office, and sentenced to be burned as a heretic.
+Hooper was a Somersetshire man by birth. In many respects he was, perhaps, the noblest martyr of them all. Of all Edward the Sixth's bishops, none has left behind him a higher reputation for personal holiness, and diligent preaching and working in his diocese. A man like Hooper, firm, stern, not naturally genial, unbending and unsparing in his denunciation of sin, was sure to have many enemies. He was one of the first marked for destruction as soon as Popery was restored. He was summoned to London at a very,' early stage of the Marian persecution, and, after lingering eighteen months in prison, and going through the form of examination by Bonner, Gardiner, Tunstall, and Day., was degraded from his office, and sentenced to be burned as a heretic.
 
 At first it was fully. expected that he would suffer in Smithfield with Rogers. This plan, for some unknown reason, was given up, and to his great satisfaction Hooper was sent down to Gloucester, and burnt in his own diocese, and in sight of his Mil cathedral. On his arrival there, he was received with every. sign of sorrow and respect by. a vast multitude, who went out on the Cirencester Road to meet him.
 
-# THE BISHOP'S DYING AGONIES
+### THE BISHOP'S DYING AGONIES
 
 On the morning of his martyrdom he was led forth, walking, to the place of execution, where an immense crowd awaited him. It was market day, and it was reckoned that nearly 7,000 people were present. The stake was planted directly. in front of the western gate of the Cathedral-close, and within 100 yards of the deanery and the east front of the Cathedral. The exact spot is marked now by a beautiful memorial at the east end of the churchyard of St. Mary-de-Lode. The window over the gate, where Popish friars watched the Bishop's dying agonies, stands unaltered to this day.
 
@@ -95,10 +89,13 @@ When Hooper arrived at this spot, he was allowed to pray., though strictly, forb
 
 Of all the martyrs, none perhaps, except Ridley, suffered more than Hooper did. Three times the faggots had to be lighted, because they would not burn properly) Three quarters of an hour the noble sufferer endured the mortal agony, as Fox says, "neither moving backward, forward, nor to any side," but only praying, "Lord Jesus, have mercy on me; Lord Jesus, receive my spirit;" and beating his breast with one hand till it was burned to a stump And so the good Bishop of Gloucester passed away.
 
-# ROWLAND TAYLOR BURNED
+### ROWLAND TAYLOR BURNED
+
 'The third leading Reformer who suffered in Mary's reign was Rowland Taylor, Rector of Hadleigh, in Suffolk. He was burned on Aldham Common, close to his own parish, the same day that Hooper died at Gloucester, on Friday, the 9th February, 1555.
 
-Striking was the reply which he made to his friends at Hadleigh, who urged him to flee, as he might have done, when he was first summoned to appear in London before Gardiner: - "What will ye have me to do? I am old, and have already lived too long to see these terrible and most wicked days. Fly you, and do as your conscience leaded, you. I am fully determined, with God's grace, to go to this Bishop, and tell him to his beard that he doth naught. I believe before God that I shall never be able to do for my God such good service as I may do now." - Fox's "Acts and Monuments," vol. III. p. 138.
+Striking was the reply which he made to his friends at Hadleigh, who urged him to flee, as he might have done, when he was first summoned to appear in London before Gardiner: - "What will ye have me to do? I am old, and have already lived too long to see these terrible and most wicked days. Fly you, and do as your conscience leaded, you. I am fully determined, with God's grace, to go to this Bishop, and tell him to his beard that he doth naught. I believe before God that I shall never be able to do for my God such good service as I may do now." 
+
+- Fox's "Acts and Monuments," vol. III. p. 138.
 
 Striking were the replies which he made to Gardiner and his other examiners. None spoke more pithily, weightily, and powerfully than did this Suffolk incumbent.
 
@@ -107,7 +104,7 @@ said, with a loud voice, - -Good people. I have taught you nothing but God's Hol
 
 He then knelt down and prayed, a poor woman of the parish insisting, in spite of every effort to prevent her, in kneeling down with him. After this, he was chained to the stake, and repeating the 51st Psalm, and crying to God, "Merciful Father, for Jesus Christ's sake, receive my soul into Thy hands," stood quietly amidst the flames without crying or moving, till one of the guards dashed out his brains with a halberd. And so this good old Suffolk incumbent passed away.
 
-# OTHER MARTYRS BURNED
+### OTHER MARTYRS BURNED
 
 The fourth leading Reformer who suffered in Mary's reign was Robert Ferrar, Bishop of St. David's in Wales. He was burned at Carmarthen on Friday, the 30th March, 1555.
 
@@ -121,7 +118,7 @@ The eighth leading English Reformer who suffered in Mary's reign was John Philpo
 
 The ninth and last leading Reformer who suffered in Mary's reign was Thomas Crawler, Archbishop of Canterbury. He was burned at Oxford, on the 21st of March, 1556. Cranmer was born at Aslacton, in Nottinghamshire. There is no name among the English martyrs so well known in history as his. There is none certainly in the list of our Reformers to whom the Church of England, on the whole, is so much indebted.
 
-# WHY WERE THEY BURNED
+### WHY WERE THEY BURNED
 
 But I pass on to a point which I hold to be one of cardinal importance in the present day.. The point I refer to is the special reason why our Reformers were burned. The principal reason why they were burned was because they refused one of the peculiar doctrines of the Romish Church. On that doctrine, in almost every case, hinged their life or death. If they admitted it, they might live; if they refused it, they must die.
 
@@ -135,15 +132,13 @@ Hear what Rowland Taylor said:- "The second cause why I was condemned as a heret
 
 - Fox in loco, vol p.141. And therefore he was condemned and burned.
 
-# OBSCURING THE GOSPEL
+### OBSCURING THE GOSPEL
 
-Whatever men please to think or say , the Romish doctrine of the real presence, if pursued to its legitimate consequences, obscures every leading doctrine of the Gospel, and damages and interferes with the whole system of Christ's truth. Grant for a moment that the Lord's Supper is a sacrifice, and not a sacrament
-
-- [ ] grant that every time the words of consecration are used the natural body. and blood of Christ are present on the Communion Table under the forms of bread and wine - grant that every one who eats that consecrated bread and drinks that consecrated wine does really,' eat and odrink the natural body. and blood of Christ.
+Whatever men please to think or say , the Romish doctrine of the real presence, if pursued to its legitimate consequences, obscures every leading doctrine of the Gospel, and damages and interferes with the whole system of Christ's truth. Grant for a moment that the Lord's Supper is a sacrifice, and not a sacrament grant that every time the words of consecration are used the natural body. and blood of Christ are present on the Communion Table under the forms of bread and wine - grant that every one who eats that consecrated bread and drinks that consecrated wine does really,' eat and odrink the natural body. and blood of Christ.
 
 Grant for a moment these things, and then see what momentous consequences result from the premises. You spoil the blessed doctrine of Christ's finished work when He died on the cross. A sacrifice that needs to be repeater! is not a perfect and complete thing. - You spoil the priestly office of Christ. If there are priests that can offer an acceptable sacrifice to God besides Him, the great High Priest is robbed of His glory. - You spoil the Scriptural doctrine of the Christian ministry You exalt sinful men into the position of mediators between God and man. - You give to the sacramental elements of bread and wine an honor and veneration they were never meant to receive, and produce an idolatry to be abhorred of faithful Christians.
 
-# WHAT WE OWE TO THE REFORMATION
+### WHAT WE OWE TO THE REFORMATION
 
 The Reformation delivered England from gross religious ignorance and spiritual darlaiess. No doubt there was a professing Church of Christ in the land when Henry. VIII ascended the throne, a Church abounding in wealth, and garrisoned by a whole army of Bishops, Abbots Friars, Priests, Monks and Nuns. But money and clergymen do not make a Church of Christ, any more than "men with muskets" make up an army. For any useful and soul-saving purposes the English Church was practically dead. and if St. Paul had come out of his grave and visited it, I doubt if he would have called it a Church at all.
 
@@ -153,7 +148,7 @@ The immense majority of the clergy, did little more than say masses and offer up
 
 Quarterly sermons were indeed prescribed to the Clergy, but not insisted on. Latimer says that while mass was never left unsaid for a single Sunday., sermons might be omitted for twenty Sundays in succession, and nobody was blamed. After all, when sermons were preached they were utterly unprofitable; and latterly., to preach much was to incur the suspicion of being a heretic.
 
-# A RELIGION WITHOUT THE BIBLE
+### A RELIGION WITHOUT THE BIBLE
 
 To cap all, the return that Bishop Hooper got from the rich diocese of Gloucester, no barbarous and uncivilized corner of England, when he was first appointed Bishop in 1551, will give a pretty clear idea of the ignorance of the pre-Reformation times. He found that out of 311 clergy in his diocese, 168 were unable to repeat the Ten Commandments-, 31 of the 168 could not say in what part of the Scripture they were to be found; 40 could not tell where the Lord's prayer was written, and 31 of the 40 did not know who was the author of the Lord's Prayer.
 
@@ -163,7 +158,7 @@ Except in rare instances it was little better than an organized system of Mary-w
 
 The only practical result was that the priests took the people's money, and undertook to secure their salvation, and the people flattered themselves that the more they gave to the priests, the more sure they were to go to heaven. As to the grand cardinal question "What must I do to be saved?" probably not one Englishman in fifty could have given you half as good an answer as an ordinary Sunday School child would give in our own day. Such was the IGNORANCE which was scattered to the winds by the English Reformation.
 
-# THE WORSHIP OF RELICS
+### THE WORSHIP OF RELICS
 
 For another thing, the Reformation delivered England from the most grovelling, childish and superstitious practices in religion. I allude especially to the worship of relics. Destitute of the slightest Scriptural 'knowledge, our forefathers were taught by the priests to seek spiritual benefit from the so-called relics of dead saints, and to treat them with divine honor. The accounts which those trustworthy old historians, Strype, and Fuller, and Burnet, have handed down to us about these wretched relics, up to Henry VIII's reign are extraordinary.
 
@@ -175,7 +170,7 @@ At Maiden Bradley Priory, in Somersetshire, the worshipers were privileged to se
 
 Records like these are so amazingly silly, as well as painful, that one hardly knows whether to laugh or to cry over them. But it is positively necessary to bring them forward, in order that men may know what was the religion of our forefathers, in the days when Rome ruled the land, before the Reformation. Wonderful as these things may seem, we must never forget that Englishmen at that time had no Bibles and knew no better. A famishing man in sieges and blockades has been known to eat rats and mice, and all manner of garbage, rather than die of hunger. A conscience-stricken soul, famishing for lack of God's Word, must not be judged too hardly., if it struggles to find comfort in the most debasing superstition . Only let us never forget that this was the SUPERSTITION which was shattered to pieces by the Reformation.
 
-# THE TYRANNY OF THE PRIESTS
+### THE TYRANNY OF THE PRIESTS
 
 For another thing, the Reformation delivered England from the degrading tyranny and swindling impostures of the Roman priesthood. In the last days of the Pope's supremacy in this land, the laity were thoroughly "sat upon" by the clergy, and could hardly call their souls their own. The power of the priests was practically. despotic, and was used for every purpose except the advancement of true religion. Like the frogs in the plague of Egypt, they made their way everywhere, both in the palace and the cottage, met you at every turn of life, and had a finger in every. transaction. They interfered by the confessional between husbands and wives - between parents and children - between masters and servants - between land-lords and tenants - between subjects and sovereigns - between souls and God. Obey them and you might do anything. Resist, and you had no safety either for property or life.
 
@@ -183,7 +178,7 @@ One great object, which they. steadily kept in view, was to enrich the Church an
 
 Sometimes they induced dying sinners to give vast tracts of land to abbeys and monasteries, in order to atone for their bad lives. In one way or another they were continually. drawing money' out of the laity, and accumulating property. in their own hands. "In fact," says Burnet, "if some laws had not restrained them, the greater part of all estates in England had been given to religious houses."
 
-# THE BLOOD OF A DUCK
+### THE BLOOD OF A DUCK
 
 As to the gross and ridiculous impostures which the priests practiced on our ignorant forefathers before the Reformation, the catalog would fill a volume. At the Abbey. of Hales, in Gloucestershire, a vial was shown by the priests on great occasions to those who offered alms, which was said to contain the blood of Christ. This notable vial was examined by the Royal Commissioners in Henry VII's time, and was found to contain the blood of a duck, renewed every week.
 
@@ -195,7 +190,7 @@ He that desires to pursue this disgraceful subject any further will find it trul
 
 Wood of the true cross, enough to load a ship though we know that one person alone could carry it - thorns professing to be part of the Saviour's crown of thorns, enough to make a large faggot - at least fourteen nails, said to have been used at the crucifixion, though we know four must have been sufficient - four spearheads, said to be points of the spear which pierced our Lord's side - though of course it had only one - at least three seamless coats of Christ for which the soldiers cast lots, though there could only have been one - all these are only select specimens of the profane and vile inventions with which Romish priests imposed on people before the Reformation. They must have known that they were telling lies, and yet they persisted in telling them, and required the ignorant laity to believe them. I remind you that for deliverance from this miserable system of PRIESTLY TYRANNY AND PRIESTLY IMPOSITION we are indebted to the Reformation.
 
-# THE BLACKEST SPOT
+### THE BLACKEST SPOT
 
 The Reformation delivered England from the worst plague that can afflict a nation, I mean the plague of unholiness and immorality among the clergy. The lives of the clergy, as a general rule, were simply scandalous, and the moral tone of the laity was naturally at the lowest ebb. Of course, grapes will never grow on thorns, nor figs on thistles. To expect the huge roots of ignorance and superstition which filled our land to bear any but corrupt fruit would be unreasonable and absurd. But a more thoroughly corrupt set than the English clergy. were in the palm) days of undisturbed Romanism, with a few brilliant exceptions, it would be impossible to imagine.
 
@@ -204,8 +199,8 @@ But the blackest spot on the character of our pre-Reformation clergy in England 
 Suffice it to say, that the discoveries made by Henry \ill's Commissioners, of the goings-on in many of the so-called religious houses, were such as it is impossible to describe. It is a shame even to speak of them. Anything less "holy" than the practice of many of the "holy" men and women in the professedly. "holy" retreats from sin and the world the imagination cannot conceive. If ever there was a plausible theory weighed in the balance and found utterly wanting, it is the favorite theory that celibacy and monasticism promote holiness.
 I make no apology for dwelling on these things. Painful and humbling as the picture is, it is one that in these times ought to be carefully looked at, and not thrown aside I do not want men to pass severe judgment on our poor ancestors, and say they were all lost. We are not their Judge. To whom little light has been given, of them little will be required. But I do want modern Churchmen to understand from what the Reformation delivered us Before we make up our minds to give up Protestantism and receive back Monasticism and the "Catholic system," let us thoroughly understand what the state of England was when Popery had its own way unchecked and uncontrolled. My own belief is, that there never was a change so imperatively needed as the Reformation, and that no Englishmen ever did such good service to their country as the Reformers.
 
-# THE REFORMATION CONFERRED POSITIVE BLESSINGS
-# UPON THIS COUNTRY
+### THE REFORMATION CONFERRED POSITIVE BLESSINGS
+### UPON THIS COUNTRY
 
 First and foremost we owe to the Reformation an English Bible, and liberty' for every. man, woman and child in the land to read it. With an English Bible came in the right and duty of private judgment, and the assertion of the great principle of our VIth Article, that "Holy Scripture contains all things needful to salvation," and the only rule of faith and practice. Of all the agencies which brought about the overthrow of Popery in this country, the translation of the Bible was the earliest and most powerful. It struck a blow at the root of the whole Romish system. Before a free Bible, and fair play for all who used it, the Pope's champions could not long stand. The huge fabric of Popery cracked, shivered, and came to the ground like a pack of cards. With a Bible in every- parish church, every. thoughtful man soon saw that the religion of the priests had no warrant of Holy Scripture.
 
@@ -215,7 +210,7 @@ Afterwords, when the Reformation fairly began, nothing seems to have alarmed and
 
 For another thing, we owe to the Reformation an open road to the throne of grace and the great fountain of peace with God. That blessed road had been long blocked up and made impassable by heaps of rubbish of man's invention. Under pretense of mending and improving the road, the divines of Rome had spoiled it altogether. He who desired to obtain forgiveness had to seek it through a jungle of priests, saints, Mary-worship, masses, penances, confession, absolution, and the like, so that there might as well have been no Throne of Grace at all.
 
-# THE WAY TO GOD OPENED
+### THE WAY TO GOD OPENED
 
 The huge mass of rubbish was shoveled out of the way by the Reformers. The doctrine of our glorious XIth Article was everywhere preached, published, and proclaimed. People were taught that justification was by faith without the deeds of the law, and that every heavy-laden sinner on earth had a fight to go straight to the Lord Jesus Christ for remission of sins, without waiting for Pope or priest, confession or absolution, masses or extreme unction. From that time the backbone of English Popery was broken. You that are walking by faith and enjoying peace with God, by simple trust in the precious blood of Atonement, never forget that you owe this priceless privilege to the Reformation.
 
