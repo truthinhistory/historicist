@@ -1,4 +1,15 @@
-# H - Prophetic Interpretation
+---
+title: "Prophetic Interpretation"
+description: "meta description"
+images:
+  - "images/post/03.jpg"
+date: 2021-01-25T11:33:57+06:00
+author: "Lubana Era"
+tags: ["Alarm", "Clock"]
+categories: ["LifeStyle"]
+draft: false
+---
+
 I wish to emphasize the fact that it is my most earnest desire to offer you the truth, the whole truth, and nothing but the truth. For forty-seven years I have prayerfully, studiously, and persistently searched the writings of the fore­most prophetic authors in the English-speaking world. After long study and extended search, however, I am led to think that there are many people in this world who are not looking for the truth but rather for possible or assumed facts to bolster up a false theory and a contradictory interpretation.
 I am well aware there are many Futurists in the United States and doubtless there are some now present. I only ask you to exercise patience, while I place before you certain facts, which no Futurist writer can disprove and which no well-informed man will deny.
 # The Two Principal Schools of Prophetic Interpreters
