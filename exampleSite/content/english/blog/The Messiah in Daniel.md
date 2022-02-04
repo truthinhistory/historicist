@@ -1,3 +1,14 @@
+---
+title: "The Messiah in Daniel"
+description: "meta description"
+images:
+  - "images/post/03.jpg"
+date: 2021-01-25T11:33:57+06:00
+author: "Lubana Era"
+tags: ["Alarm", "Clock"]
+categories: ["LifeStyle"]
+draft: false
+---
 # H - The Messiah in Daniel
 Chapter 9 starts with Daniel reading from the book of Jeremiah where he learns that the Jews' 70 years of captivity in Babylon are almost over.
 He is concerned about the sins of Israel and how they have offended God. He prays and fasts and asks God to forgive Israel and tell him what His plan is for Israel once their captivity is over.
