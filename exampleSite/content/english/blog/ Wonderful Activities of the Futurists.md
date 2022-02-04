@@ -1,4 +1,18 @@
-# H - Wonderful Activities of the Futurists
++++
+
++++
+---
+title: "Wonderful Activities of the Futurists"
+description: "meta description"
+images:
+  - "images/post/05.jpg"
+date: 2021-01-25T16:56:47+06:00
+draft: false
+author: "Henara Colii"
+tags: ["Food", "Gold"]
+categories: ["Food"]
+---
+# H - 
 Futurism was introduced into the Protestant Church by Samuel R. Maitland, a clergyman of the Church of England, from Romanist writers, chiefly from the Jesuit Lacunza, about 1830. Lacunza was born in Chile in 1731 and died in Italy in 1801.
 It spread with wonderful rapidity in England and from England to America. Note its present condition in this country.
 As far as I can learn, all the Bible Schools in this country for the train­ing of Christian workers are Futurists. Their courses on Prophecy, studied by tens of thousands both by attendance and by correspondence, are based upon this error. For many years said Schools have sent out their graduates, who have never failed to indoctrinate all with whom they came in contact, and to fortify their minds against the Protestant interpretation of Prophecy.
