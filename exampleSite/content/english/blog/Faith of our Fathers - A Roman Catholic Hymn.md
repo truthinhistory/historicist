@@ -1,4 +1,15 @@
-# H - Faith of our Fathers - A Roman Catholic Hymn
+---
+title: "Faith of our Fathers - A Roman Catholic Hymn"
+description: "meta description"
+images:
+  - "images/post/03.jpg"
+date: 2021-01-25T11:33:57+06:00
+author: "Lubana Era"
+tags: ["Alarm", "Clock"]
+categories: ["LifeStyle"]
+draft: false
+---
+
 All too often many Christians accept religious ideas and doctrines without first researching the facts to prove their worthiness. The same goes for some songs that have been placed by publishers into Protestant hymn books. This is the case with a Roman Catholic song that has been accepted and sung by millions of Protestants unaware of its history and true meaning.
 The author of "Faith of Our Fathers", Frederick William Faber was born in Yorkshire, England, June 28, 1814. He entered Oxford in 1832 and while there came under the influence of John Henry Newman, the vicar of St. Mary's University Church. Newman later became the most prominent English Roman Catholic scholar of the 19th century. In 1837, Faber received the orders of a deacon followed by the priestly orders two years later in the Church of England. He then spent about four years traveling in Europe during which time he developed a leaning toward Roman Catholic beliefs and practices. After his graduation from the university in 1843, he became the rector of a small parish in Elton, England.
 Faber was raised as a strict Calvinist in an English minister's home of Huguenot ancestry and was opposed to the doctrinal tenets of the Roman Church. During his college years and his travels in Europe he came under the influence of a strong religious persuasion known as the Oxford or Tractarian Movement. The Oxford movement stressed that a true religious experience was only derived through a liturgical and ceremonial church service. After serving as a Church of England minister for two years, he resigned his parish and joined the Roman Catholic Church and became known as Father Wilfrid.
