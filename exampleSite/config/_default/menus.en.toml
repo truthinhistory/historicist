@@ -17,7 +17,7 @@ weight = 4
 [[main]]
 hasChildren = false
 name = "Home"
-url = "/homepage/list/"
+url = "/"
 weight = 1
 [[main]]
 name = "About"
