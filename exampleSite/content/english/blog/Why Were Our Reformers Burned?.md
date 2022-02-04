@@ -24,7 +24,7 @@ Read history, and see what Rome did in days gone by. Read how she trampled on yo
 
 "Come unto Me", says the Savior, "all ye that labor and are heavy laden, and I will give you rest" - "He that believed' on the Son shall not perish, but have eternal life" - "He that believed' on Him is not condemned." - "He that corned' unto Me I will in no wise cast out." Our Lord Jesus Christ is the only mediator between God and man, and He mites you to come to Him personally for Salvation.
 
-To be saved, is to be delivered in this present life from the guilt of sin, by faith in Jesus Christ, the Savior. It is to be pardoned, justified, and freed from every. charge of sin, by faith in Christ's blood and mediation. Whosoever with his heart believes on the Lord Jesus Christ. is a saved soul. He shall not perish.
+To be saved, is to be delivered in this present life from the guilt of sin, by faith in Jesus Christ, the Savior. It is to be pardoned, justified, and freed from every. charge of sin, by faith in Christ's blood and mediation. Whosoever with his heart believes on the Lord Jesus Christ is a saved soul. He shall not perish.
 
 ### THE ROMAN CATHOLIC CHURCH'S TEACHING
 ### ABOUT THE WAY OF SALVATION
