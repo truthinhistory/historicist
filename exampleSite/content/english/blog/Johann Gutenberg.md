@@ -1,4 +1,15 @@
-# H - Johann Gutenberg
+---
+title: "Johann Gutenberg"
+description: "meta description"
+images:
+  - "images/post/03.jpg"
+date: 2021-01-25T11:33:57+06:00
+author: "Lubana Era"
+tags: ["Alarm", "Clock"]
+categories: ["LifeStyle"]
+draft: false
+---
+
 Johann Gutenberg invented the printing press in the 1450's, and the first book to ever be printed was a Latin language Bible, printed in Mainz, Germany. Gutenberg's Bibles were surprisingly beautiful, as each leaf Gutenberg printed was later colorfully hand-illuminated. Born as "Johann Gensfleisch" (John Gooseflesh), he preferred to be known as "Johann Gutenberg" (John Beautiful Mountain). Ironically, though he had created what many believe to be the most important invention in history, Gutenberg was a victim of unscrupulous business associates who took control of his business and left him in poverty. Nevertheless, the invention of the movable-type printing press meant that Bibles and books could finally be effectively produced in large quantities in a short period of time. This was essential to the success of the Reformation.
 GUTENBERG, JOHANN (c. 1398-1468), German printer, is supposed to have been born 1398-1399 at Mainz of well-to-do parents, his father being Friele zum Gensfleisch and his mother Elsgen Wyrich, whose birthplace "Gutenberg", was the name he adopted. The Germans, and most other people, contend that Gutenberg was the inventor of the art of printing with movable types.
 # Early Life of Johann Gutenberg
