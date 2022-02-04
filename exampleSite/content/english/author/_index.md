@@ -1,9 +1,6 @@
 ---
-title: "Author"
-image: ""
-date: 2021-01-26T10:13:00+06:00
-draft: false
-menu:
-  
----
+title: Author Unknown
+image: ''
+date: 2022-02-03T00:00:00-06:00
 
+---
