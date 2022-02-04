@@ -31,7 +31,7 @@ To be saved, is to be delivered in this present life from the guilt of sin, by f
 
 The Roman Catholic Church teaches that no one can be Saved outside the Roman Catholic Church. Between the sinner who is seeking Salvation, and the Lord Jesus Christ as Savior, the Roman Catholic Church has put Mary-worship, saint-worship, image-worship, relic-worship, confessions, pilgrimages, almsgivings, baptism, ceremonialism, processions, penances, absolutions, masses, blind obedience to the priests, and the fires of purgatory Let us proclaim to Roman Catholics everywhere the Good News that the GIFT OF GOD is eternal life through Jesus Christ our Lord.
 
-- BISHOP J.0 RYLE.
+*BISHOP J.0 RYLE.*
 
 ### WHY WERE OUR REFORMERS BURNED?
 
@@ -95,7 +95,7 @@ Of all the martyrs, none perhaps, except Ridley, suffered more than Hooper did. 
 
 Striking was the reply which he made to his friends at Hadleigh, who urged him to flee, as he might have done, when he was first summoned to appear in London before Gardiner: - "What will ye have me to do? I am old, and have already lived too long to see these terrible and most wicked days. Fly you, and do as your conscience leaded, you. I am fully determined, with God's grace, to go to this Bishop, and tell him to his beard that he doth naught. I believe before God that I shall never be able to do for my God such good service as I may do now." 
 
-- Fox's "Acts and Monuments," vol. III. p. 138.
+*Fox's "Acts and Monuments," vol. III. p. 138.*
 
 Striking were the replies which he made to Gardiner and his other examiners. None spoke more pithily, weightily, and powerfully than did this Suffolk incumbent.
 
@@ -130,7 +130,7 @@ Hear what Rowland Taylor said:- "The second cause why I was condemned as a heret
 
 "Because I denied the aforesaid Papistical doctrine (yea, rattier plain, wicked idolatry, blasphemy, and heresy) I am judged a heretic."
 
-- Fox in loco, vol p.141. And therefore he was condemned and burned.
+*Fox in loco, vol p.141. And therefore he was condemned and burned.*
 
 ### OBSCURING THE GOSPEL
 
@@ -219,10 +219,8 @@ dim. And for ever let us remember that the Reformation was won for us by the blo
 
 Shall we in this century talk lightly. of the great work which they did? Shall we entertain for a moment the idea of forsaking Reformation principles and going back to Rome? Once more I say, God forbid! The man who counsels such base apostasy and suicidal folly must be judicially blind. The iron collar has been broken; let us not put it on again. The prison has been thrown open; let us not resume the yoke and return to our chains.
 
-**by JOHN CHARLES (J. C.) RYLE (1816-1900)**
+*by JOHN CHARLES (J. C.) RYLE (1816-1900)*
 
 Bishop of Liverpool. Born at Macclefield and educated at Eton and Christ Church, Oxford, the son of a wealthy banker, he was destined for a career in politics. A fine athlete, he rowed and played cricket for Oxford and also took a first class degree in Modern Greats, but declined offers of a college fellowship. He was spiritually awakened in 1838 on hearing Ephesians 2 read in church, and was ordained by Bishop Sumner at Winchester in 1842. He pastored lesser known churches, until at the age of sixty-four he was appointed in 1880 at Disraeli's recommendation as first bishop of Liverpool.
 
-Bishop Ryle wrote more than one hundred tracts and pamphlets on doctrinal and practical subjects which enjoyed a wide circulation in English and foreign languages. He was thoroughly evangelical in doctrine and one of the most prominent ministers in the denomination. As a churchman, he had no doubts about the essentiality of the Protestant Reformation for the people of Great Britain for their freedom to worship and to preach the 'faith once delivered to the saints.'
-
-In his article "Why Were Our Reformers Burned?" Bishop Ryle squarely lays the responsibility for the martyrdom of the English Reformers at the door of the Church of Rome.
+Bishop Ryle wrote more than one hundred tracts and pamphlets on doctrinal and practical subjects which enjoyed a wide circulation in English and foreign languages. He was thoroughly evangelical in doctrine and one of the most prominent ministers in the denomination. As a churchman, he had no doubts about the essentiality of the Protestant Reformation for the people of Great Britain for their freedom to worship and to preach the 'faith once delivered to the saints.' In his article "Why Were Our Reformers Burned?" Bishop Ryle squarely lays the responsibility for the martyrdom of the English Reformers at the door of the Church of Rome.
