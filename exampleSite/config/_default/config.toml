@@ -1,5 +1,5 @@
 baseURL = "https://www.historicist.com/"
-disableLanguages = ["fr-fr"]
+disableLanguages = ["fr"]
 disqusShortname = "themefisher-template"
 googleAnalytics = ""
 hasCJKLanguage = true
