@@ -1,7 +1,7 @@
 ---
 title: William Tyndale
-description: William Tyndale first man to ever print the New Testament in the English
-  language.
+description: William Tyndale was the first man to ever print the New Testament in
+  the English language.
 images:
 - images/post/03.jpg
 date: 2021-01-25T11:33:57.000+06:00
