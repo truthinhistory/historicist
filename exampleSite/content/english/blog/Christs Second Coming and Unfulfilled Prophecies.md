@@ -2,10 +2,10 @@
 title: "Christs Second Coming and Unfulfilled Prophecies"
 description: "meta description"
 images:
- - "images/post/05.jpg"
+  - "images/post/03.jpg"
 date: 2021-02-03T16:56:47+06:00
 draft: false
-author: "Robert Caringola"
+author: "Henara Colii"
 tags: ["Alarm", "Clock"]
 categories: ["LifeStyle"]
 ---
