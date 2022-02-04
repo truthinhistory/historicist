@@ -1,4 +1,15 @@
-# H - The Antichrist in Daniel
+---
+title: "The Antichrist in Daniel"
+description: "meta description"
+images:
+  - "images/post/03.jpg"
+date: 2021-01-25T11:33:57+06:00
+author: "Lubana Era"
+tags: ["Alarm", "Clock"]
+categories: ["LifeStyle"]
+draft: false
+---
+
 In Daniel 7, The Lord gives Daniel the same dream that Nebuchadnezzar had in Chapter four, but with more details.
 In the dream he saw four world kingdoms that would rise in history.
 Each kingdom had the symbol of an animal (beast). Accord-ing to the dream, God would send the Son of Man to the earth during the rule of the fourth kingdom (Rome).
