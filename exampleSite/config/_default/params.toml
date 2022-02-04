@@ -9,7 +9,7 @@ logo_width = "208px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "Bookworm"
+logo_text = "Historicist"
 
 # Menu align
 menu_align = "center" # Menu-align value "left", "right" or "center" (if Search is disable/false Menu will align in Right)
@@ -26,7 +26,7 @@ search = true # (if Search is disable/false Menu will align in Right)
 image_gallery = true
 # copyright
 theme_copyright = true
-copyright = "&copy; Copyright by Bookworm"
+copyright = "&copy; Copyright by Truth in History"
 # google tag manager, see https://developers.google.com/tag-manager/
 google_tag_manager = "" # example: G-XXXXXXXXXX
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
@@ -78,9 +78,9 @@ enableQQ = false # https://valine.js.org/en/configuration.html#enableQQ
 
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
-keywords = ["Boilerplate", "Hugo", "Themefisher", "GetHugoThemes"]
-description = "This is meta description"
-author = "Themefisher"
+keywords = ["Historicist", "Futurist", "Preterist", "Futurism"]
+description = "Historicist biblical interpretation"
+author = "Truth in History"
 image = "images/favicon.png" # this image will be used as fallback if a page has no image of its own
 
 # matomo tracking: see https://matomo.org/
@@ -121,7 +121,7 @@ map_marker = "images/marker.png"
 
 # cookies
 [cookies]
-enable = false
+enable = true
 expire_days = 2
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
 button = "I Accept"
