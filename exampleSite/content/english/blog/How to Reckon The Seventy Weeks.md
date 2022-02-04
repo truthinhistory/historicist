@@ -1,4 +1,15 @@
-# H - How to Reckon The Seventy Weeks
+---
+title: "How to Reckon The Seventy Weeks"
+description: "meta description"
+images:
+  - "images/post/03.jpg"
+date: 2021-01-25T11:33:57+06:00
+author: "Lubana Era"
+tags: ["Alarm", "Clock"]
+categories: ["LifeStyle"]
+draft: false
+---
+
 # The Prophecy Stated
 The prophecy we are considering is found in Daniel 9:24-27, and reads as follows : "Seventy weeks are deter-mined upon thy people and upon thy holy city, to finish the trans-gression, and to make an end of sins, and to make reconciliation for iniquity, and to bring in everlasting righteousness, and to seal up the vision and prophecy, and to anoint the most Holy. Know there-fore and understand, that from the going forth of the commandment to restore and to build Jerusalem unto the Messiah the Prince shall be seven weeks, and threescore and two weeks ; the street shall be built again, and the wall, even in troublous times. And after three-score and two weeks shall Messiah be cut off, but not for himself ; and the people of the prince that shall come shall destroy the city and the sanctuary ; and the end thereof shall be with a flood, and unto the end of the war desolations are determined. And he shall confirm the covenant with many for one week ; and in the midst of the week he shall cause the sacrifice and the oblation to cease, and for the overspreading of abominations he shall make it desolate, even until the consummation, and that determined shall be poured upon the desolate." The entire chapter should be carefully read in connection with this study.
  
