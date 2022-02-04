@@ -31,7 +31,7 @@ To be saved, is to be delivered in this present life from the guilt of sin, by f
 
 The Roman Catholic Church teaches that no one can be Saved outside the Roman Catholic Church. Between the sinner who is seeking Salvation, and the Lord Jesus Christ as Savior, the Roman Catholic Church has put Mary-worship, saint-worship, image-worship, relic-worship, confessions, pilgrimages, almsgivings, baptism, ceremonialism, processions, penances, absolutions, masses, blind obedience to the priests, and the fires of purgatory Let us proclaim to Roman Catholics everywhere the Good News that the GIFT OF GOD is eternal life through Jesus Christ our Lord.
 
-BISHOP J.0 RYLE.
+- BISHOP J.0 RYLE.
 
 ### WHY WERE OUR REFORMERS BURNED?
 
