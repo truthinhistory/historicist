@@ -12,7 +12,7 @@ categories:
 - LifeStyle
 
 ---
-# THE DUTY OF ALL CHRISTIANS
+### THE DUTY OF ALL CHRISTIANS
 
 For one thing, I advise you to resist manfully the efforts now being made to un-Protestantize England, and to bring her once more into subjection to Popery. Let us not go back to ignorance, superstition. priestcraft, and irrunorality. Our forefathers tried Popery long ago, and threw it off with disgust and indignation.
 
@@ -20,14 +20,14 @@ Let us have no peace with Rome till Rome abjures her errors and is at peace with
 
 Read history, and see what Rome did in days gone by. Read how she trampled on your country's liberties, plundered your forefather's pockets, and kept the whole nation ignorant and immoral.
 
-# JESUS CHRIST - THE WAY OF SALVATION
+### JESUS CHRIST - THE WAY OF SALVATION
 
 "Come unto Me", says the Savior, "all ye that labor and are heavy laden, and I will give you rest" - "He that believed' on the Son shall not perish, but have eternal life" - "He that believed' on Him is not condemned." - "He that corned' unto Me I will in no wise cast out." Our Lord Jesus Christ is the only mediator between God and man, and He mites you to come to Him personally for Salvation.
 
 To be saved, is to be delivered in this present life from the guilt of sin, by faith in Jesus Christ, the Savior. It is to be pardoned, justified, and freed from every. charge of sin, by faith in Christ's blood and mediation. Whosoever with his heart believes on the Lord Jesus Christ. is a saved soul. He shall not perish.
 
-# THE ROMAN CATHOLIC CHURCH'S TEACHING
-# ABOUT THE WAY OF SALVATION
+### THE ROMAN CATHOLIC CHURCH'S TEACHING
+### ABOUT THE WAY OF SALVATION
 
 The Roman Catholic Church teaches that no one can be Saved outside the Roman Catholic Church. Between the sinner who is seeking Salvation, and the Lord Jesus Christ as Savior, the Roman Catholic Church has put Mary-worship, saint-worship, image-worship, relic-worship, confessions, pilgrimages, almsgivings, baptism, ceremonialism, processions, penances, absolutions, masses, blind obedience to the priests, and the fires of purgatory Let us proclaim to Roman Catholics everywhere the Good News that the GIFT OF GOD is eternal life through Jesus Christ our Lord.
 
