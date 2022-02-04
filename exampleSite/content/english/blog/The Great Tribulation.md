@@ -1,4 +1,15 @@
-# H - The Great Tribulation
+---
+title: "The Great Tribulation"
+description: "meta description"
+images:
+  - "images/post/03.jpg"
+date: 2021-01-25T11:33:57+06:00
+author: "Lubana Era"
+tags: ["Alarm", "Clock"]
+categories: ["LifeStyle"]
+draft: false
+---
+
 # The Time of Tribulation Established
 We now come to a different phase of our enquiry, namely the great tribulation. Numerous books have been written about this dire event that have filled many minds with fearsome foreboding. Dispensationalists interpret this manifestation of Divine wrath as taking place in the 70th week of Daniel's prophecy still future. The Scofield R.B. says, "From this time begins the great tribulation which runs its course during the last half of Daniel's week, namely, three and one half years." p. 918. As a corollary of the teaching the Jews are to be regathered in Palestine and make a covenant with the antichrist, while the church is to be raptured away previous to the bitter vials of tribulation visited on the inhabitants left on the earth. After the tribulation Christ is to set up His kingdom on earth with headquarters at Jerusalem and reign in splendor for 1000 years during which time the Jews are to be preeminent.
  
