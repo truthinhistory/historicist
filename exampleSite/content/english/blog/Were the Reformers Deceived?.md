@@ -1,4 +1,15 @@
-# H - Were the Reformers Deceived?
+---
+title: " Were the Reformers Deceived?"
+description: "meta description"
+images:
+  - "images/post/03.jpg"
+date: 2021-01-25T11:33:57+06:00
+author: "Lubana Era"
+tags: ["Alarm", "Clock"]
+categories: ["LifeStyle"]
+draft: false
+---
+
 This is a vital question for all who stand for Truth. For some time now we have been hearing references to "the so-called Reformation"; "the tragedy of the Reformation", "the schisms of the sixteenth century." These terms are so often used by Protestants who are trying desperately to justify the Romeward trend of so-called 'Christian Unity'. Roman Catholic Apologists and propagandists have gone from strength to strength, aided and abetted by Protestants.
 Was this great Spiritual event of the sixteenth century a tragedy? Were the Reformers Deceived?
 Let us look at the facts of history for the answers to these important questions:
