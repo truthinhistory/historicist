@@ -1,4 +1,15 @@
-# H - Father of the English Bible
+---
+title: "Father of the English Bible"
+description: "meta description"
+images:
+  - "images/post/03.jpg"
+date: 2021-01-25T11:33:57+06:00
+author: "Lubana Era"
+tags: ["Alarm", "Clock"]
+categories: ["LifeStyle"]
+draft: false
+---
+
 # WILLIAM TYNDALE
 During the heart of the Protestant Reformation, the Lord by divine providence, raised up a man whose work would help reshape the very foundations of the western world. His name was William Tyndale. Over one hundred years before his birth, God anointed John Wycliffe, known as the "Morning Star of the Reformation" to awaken the people of England to the truths of the Bible that had been hid from them for so long. He began the work of Bible translation, the examination of many Roman dogmas and sent out "poor priests" known as Lollards to preach throughout the country the good news of salvation by grace. His work was the 'breaking of the dawn' of Gospel light over the people of Britain, while the work of Tyndale would bring about that light as strong as the noon-day sun.
 Tyndale was born in c. 1494, most likely at North Nibley in Gloucestershire, England of Northumbrian ancestry. He attended Oxford and Cambridge and received an education that would later be used of God to translate the Bible in the common language of the people. He entered Oxford University at nine years old and received his Master's Degree at twenty-one years old. While at the Universities, he became very proficient in the Greek language which enabled him to study the Greek New Testament of Erasmus. He proved to be a very gifted linguist and could read and speak fluently in eight languages; Hebrew, Greek, Latin, French, Italian, Spanish, German and his native English. Tyndale was blessed with an amiable personality and was always known for living a disciplined and virtuous life.
