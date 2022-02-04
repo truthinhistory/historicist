@@ -1,6 +1,14 @@
-# H - *”Sit . . . Until . . .” The Multiple Witness of Scripture*
-## By Robert Caringola
-
+---
+title: "Sit . . . Until . . .” The Multiple Witness of Scripture"
+description: "meta description"
+images:
+  - "images/post/03.jpg"
+date: 2021-01-25T11:33:57+06:00
+author: "Robert Caringola"
+tags: ["Alarm", "Clock"]
+categories: ["LifeStyle"]
+draft: false
+---
 
  [1 ](https://web.archive.org/web/20190828045205/https://www.kingjamesbibleonline.org/Psalms-110-1/) The LORD said unto my Lord, **Sit** thou at my right hand, **until** I make thine enemies thy footstool.
  [2 ](https://web.archive.org/web/20190828045205/https://www.kingjamesbibleonline.org/Psalms-110-2/) The LORD shall send the rod of thy strength out of Zion: **rule thou in the midst of thine enemies**.
