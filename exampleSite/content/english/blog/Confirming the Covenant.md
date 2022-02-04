@@ -1,4 +1,15 @@
-# H - Confirming the Covenant
+---
+title: "Confirming the Covenant"
+description: "meta description"
+images:
+  - "images/post/03.jpg"
+date: 2021-01-25T11:33:57+06:00
+author: "Lubana Era"
+tags: ["Alarm", "Clock"]
+categories: ["LifeStyle"]
+draft: false
+---
+
 # Who Confirms the Covenant?
 We shall now turn our attention to the covenant mentioned in Dan. 9:27 which reads as follows: "And He shall confirm the covenant with many for one week." Most premillennialists and all dispensationalists introduce the anti-christ into the prophecy at this point and contend that it is he who will make a covenant with the Jews in Jerusalem during the 70th week in the future. The anti-christ is portrayed as a "prince, a king, as God and as Lucifer, as a beast and as a man." See Blackstone's Jesus is Coming, pp. 108, 109. The only place in the Bible where the anti-christ is mentioned is 1st and 2nd John. These books were written 600 years after Daniel. There is no mention of the anti-christ in Daniel at all; nor for that matter in the entire Old Testament. It seems inconsistent, therefore, to relate the pronoun "he" of Daniel 9:27 to the anti-christ who is first introduced 600 years later.
  
