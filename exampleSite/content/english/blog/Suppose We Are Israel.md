@@ -25,7 +25,7 @@ The Apostle Peter, also speaking of our day, says:
 
 > Know this also that there shall come in the last days scoffers, walking in their own lusts, and saying, Where is the promise of his coming? For since the fathers fell asleep, all things continue as they were from the beginning of the world.
 
-The veteran Paul describes another type as _"Ever learning, but never able to come to the knowledge of the truth,"_and _"As Jannes and Jambres withstood Moses, so also do these resist the truth."_ Some of them do it by outspoken opposition; some, by seeking to thwart its proclamation; some, by engaging in whisper campaigns of criticism.
+The veteran Paul describes another type as _"Ever learning, but never able to come to the knowledge of the truth,"_ and _"As Jannes and Jambres withstood Moses, so also do these resist the truth."_ Some of them do it by outspoken opposition; some, by seeking to thwart its proclamation; some, by engaging in whisper campaigns of criticism.
 
 Of the outspoken opposition, it can be said that they make excellent converts when their spiritual blindness clears away and they see the truth. As for those who devise devious methods and those who work in the dark, Jesus said:
 
@@ -41,7 +41,7 @@ Regarding the Jews, Paul said:
 
 > "Their minds were blinded: for until this day remaineth the veil untaken away in the reading of the Old Testament, which veil is done away in Christ. But even unto this day when Moses is dead, the veil is upon their heart. Nevertheless when they shall turn to the Lord, the veil shall be taken away."
 
-But the blindness in Ten Tribed Israel in reading Moses and the Old Testament, Paul says, was to continue _"until the fulness of the Gentiles be come in."_ The _"Times of the Gentiles"_ closed when General Allenby took Jerusalemin 1917. The _"Fulness of the Gentiles"_ is manifest in the enormity of human perfidy now being displayed by the dictator nations as their cup of iniquity rapidly fills to the brim. - (Joel 3:13) The hour is close at hand, when Ten Tribed Israel will experience the great awakening foretold by the prophets. The blindness will pass away in the spiritual light which shall break upon their souls regarding their identity and their responsibilities as the chosen people of God. Multitudes in our own and many other lands are already awake and taking their places among the cohorts of the Almighty for the closing days of the age. In presenting the Israel Truth, it is therefore wise to heed the admonition of Paul to Timothy:
+But the blindness in Ten Tribed Israel in reading Moses and the Old Testament, Paul says, was to continue _"until the fulness of the Gentiles be come in."_ The _"Times of the Gentiles"_ closed when General Allenby took Jerusalem in 1917. The _"Fulness of the Gentiles"_ is manifest in the enormity of human perfidy now being displayed by the dictator nations as their cup of iniquity rapidly fills to the brim. - (Joel 3:13) The hour is close at hand, when Ten Tribed Israel will experience the great awakening foretold by the prophets. The blindness will pass away in the spiritual light which shall break upon their souls regarding their identity and their responsibilities as the chosen people of God. Multitudes in our own and many other lands are already awake and taking their places among the cohorts of the Almighty for the closing days of the age. In presenting the Israel Truth, it is therefore wise to heed the admonition of Paul to Timothy:
 
 > "The servant of the Lord must not strive; but be gentle unto all men, apt to teach, patient, in meekness, instructing those who opposed themselves; if God peradventure will give them repentance to the acknowledging of the truth."
 
@@ -49,7 +49,9 @@ In this spirit we now take up the study of a special type of evasion of the Isra
 
 The spirit in which the statement is made ranges from mere flippancy to sincere declaration.
 
-With regard to the flippant, each case calls for a decision regarding what should be done. Solomon advises us: _"Answer not a fool according to his folly, lest thou be like unto him"_; and then in about the same breath he says: _"Answer a fool according to his folly, lest he be wise in his own conceit."_ Whether coming from the flippant or the conscientious Christian, the statement _"Suppose we are Israel; what difference does it make?"_ assumes a serious aspect. Few, if any, of those who make it have considered for a moment its true import. We, therefore, would analyze the spirit which prompts the statement and the implications involved. At once it is evident that there exists a very shallow knowledge of the Bible and a careless disregard for its sanctity. There is here the manifestation of an egotism unbecoming a child of God. It smacks of the idea that God set in operation all that is revealed in the Scriptures solely to save the individual, and when that is, accomplished, what else is worthy of consideration? There is also present a form of selfishness. If the individual is saved; what difference does anything else make?
+With regard to the flippant, each case calls for a decision regarding what should be done. Solomon advises us: _"Answer not a fool according to his folly, lest thou be like unto him"_; and then in about the same breath he says: _"Answer a fool according to his folly, lest he be wise in his own conceit."_ Whether coming from the flippant or the conscientious Christian, the statement _"Suppose we are Israel; what difference does it make?"_ assumes a serious aspect.
+
+Few, if any, of those who make it have considered for a moment its true import. We, therefore, would analyze the spirit which prompts the statement and the implications involved. At once it is evident that there exists a very shallow knowledge of the Bible and a careless disregard for its sanctity. There is here the manifestation of an egotism unbecoming a child of God. It smacks of the idea that God set in operation all that is revealed in the Scriptures solely to save the individual, and when that is, accomplished, what else is worthy of consideration? There is also present a form of selfishness. If the individual is saved; what difference does anything else make?
 
 Aside from the mental state which the question in each instance, so eloquently portrays, there is an attitude of heart and soul, thus declared, which should be a matter of serious concern to the professed Christian, when weighed in the light of things spiritual and divine.
 
@@ -66,8 +68,8 @@ The spiritually minded ever remember that God is holy and His Word holy; that ma
 _"Suppose we are Israel; What difference does it make?"_ There is here, plainly implied, the fact that the speaker does not intend to accept or live by it anyway. This assumes the right of the individual to look the Word of God over, select what suits his whim or fancy and discard the balance. But Paul made it very plain to Timothy that:
 
 > All Scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness: that the man of God may be perfect, thoroughly furnished unto all good works.
- 
-The Bible, as given by God is a complete whole. It stands or falls in one piece. It declares the whole counsel of God and it required nothing short of the whole book to declare it. Otherwise, much of it would not have been written. It must be accepted in its entirety.
+>  
+> The Bible, as given by God is a complete whole. It stands or falls in one piece. It declares the whole counsel of God and it required nothing short of the whole book to declare it. Otherwise, much of it would not have been written. It must be accepted in its entirety.
 
 It is not, therefore, within the province of man to go through the book, sorting and picking this and that, which he proposes to accept and say with regard to the remainder _"What difference does it make"_, To do so is the height of presumption.
 
@@ -169,12 +171,12 @@ The man who has his eyes on the skies in contemplation of the glories, honors an
 
 It does not require great research to find a host of texts in which God reveals the exalted position given to his chosen race. A few, however, should suffice:
 
-- Isaiah 43:1,4. _"But now thus saith the Lord that created thee, O Jacob, and He that formed thee, O Israel, Fear not for I have redeemed thee, I have called thee by thy name, thou art mine..... Since thou wast precious in my sight, thou hast been honourable and I have loved thee"_
-- I Kings 8:53. _"Thou didst separate them from among all the people of the earth, to be thine inheritance."_
-- Psalm 135:4._"For the Lord hath chosen Jacob unto himself, and Israel for his peculiar treasure."_
-- Deuteronomy 7:6 _"For thou art an holy people (set apart for God's use) unto the Lord thy God: the Lord thy God hath chosen thee to be a special people unto himself, above all people that are upon the face of the earth."_
-- Deuteronomy 14:2 _"The Lord hath chosen thee to be a peculiar people unto Himself above all the nations that are upon the earth."_  
- 
+* Isaiah 43:1,4. _"But now thus saith the Lord that created thee, O Jacob, and He that formed thee, O Israel, Fear not for I have redeemed thee, I have called thee by thy name, thou art mine..... Since thou wast precious in my sight, thou hast been honourable and I have loved thee"_
+* I Kings 8:53. _"Thou didst separate them from among all the people of the earth, to be thine inheritance."_
+* Psalm 135:4._"For the Lord hath chosen Jacob unto himself, and Israel for his peculiar treasure."_
+* Deuteronomy 7:6 _"For thou art an holy people (set apart for God's use) unto the Lord thy God: the Lord thy God hath chosen thee to be a special people unto himself, above all people that are upon the face of the earth."_
+* Deuteronomy 14:2 _"The Lord hath chosen thee to be a peculiar people unto Himself above all the nations that are upon the earth."_
+
 God has certainly lavished the honors and blessings upon Israel and, in the few texts cited, there is enough to give the Israel Christian abundant reason for joy and thanksgiving. Note the honors conferred: He chose them, redeemed them, claimed them for his own, separated them, calls them precious, his peculiar treasure, his special people, his inheritance above all the peoples of the earth.
 
 Think of any believer reading all of that and then turning upon his heel and saying _"Suppose we are Israel: What difference does it make?"_ Well, let us suppose again. Suppose the king of a great empire assembled his armies on the plain, thousands upon thousands of them, and, as they stood at attention, he should call out of the ranks one man and announce that he had chosen him to be his intimate aide de camp; and, in the presence of the vast multitude, he should pin upon his breast the badge which signified the honors, titles and emoluments conferred. Suppose that young man responded to all of this by simply taking the medal and nonchalantly flicking it into the air. We can easily imagine the consternation it would cause in the king and in the ranks. Yet this is the treatment God receives from those who say: _"Suppose we are Israel: What difference does it make?"_
