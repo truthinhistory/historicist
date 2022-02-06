@@ -1,15 +1,17 @@
 ---
 title: Who is Antichrist
-description: meta description
+description: Antichrist with the devil, from the Deeds of the Antichrist
 images:
-- images/post/03.jpg
-date: 2021-01-25T11:33:57.000+06:00
-author: Lubana Era
+- "/images/antichrist.jpg"
+date: 2022-02-05T00:00:00-06:00
+author: 'Historicist '
 tags:
-- Alarm
-- Clock
+- Jesus Christ
+- Prophecy
+- John
+- Antichrist
 categories:
-- LifeStyle
+- Futurism
 
 ---
 Where is that 'antichrist' the Futurist teachers keep telling us about? The many speculations about his origin and identity have intrigued Christian people for almost a century, since C.I. Scofield published his commentary notes on the same pages as the sacred text in 1909. A popular view during the 1960's was that the 'antichrist' was a Syrian while others taught that he was a child prodigy from India. The Futurist prophecy experts told us that this child was currently being trained to rule the world, but they never told us who was training him.
