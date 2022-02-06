@@ -4,7 +4,7 @@ description: Sister Charlotte King was a nun in the Roman Catholic Church living
   a convent.
 images:
 - "/images/sister_charlotte.jpg"
-date: 
+date: 2022-02-05T00:00:00-06:00
 author: Charlotte King
 tags:
 - Rome
