@@ -8,7 +8,6 @@ tags:
 - Photography
 categories:
 - Photography
-draft: true
 
 ---
 Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
