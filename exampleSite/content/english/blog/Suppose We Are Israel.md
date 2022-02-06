@@ -18,38 +18,38 @@ While, ordinarily, that which has been patently revealed cannot he called a disc
 
 Archeology, Biblical research and modern translations have done wonders in substantiating the validity and in the elucidation of the Word of God. But all of these are subservient to and corroborative of the great discovery that God is a God of order; that He actually devised a plan and program for the redemption of our planet; that, essential to that plan and program, he chose Ten Tribed Israel; and that they are extant on the earth today. But like the prophets of old, this great truth has met with indifference, unbelief and opposition. Even the great evangelistic prophet Isaiah could say of his day: _"Who hath believed our report?"_ Jesus knew that the same spirit would be manifested in our day and accordingly presented the Kingdom parable of the sower; in which He cites four kinds of hearers and warned the disciples that the only kind of hearers which could be depended upon to receive the Kingdom message were the "good and honest hearts." He told His disciples just how it would be in our day when He said:
 
->As it was in the days of Noah, so shall it be also in the days of the Son of man.
+> As it was in the days of Noah, so shall it be also in the days of the Son of man.
 
 Noah earnestly proclaimed the coming of the flood but the people of his day _"knew not,"_ did not care to know, until the flood came and swept them all away.
 The Apostle Peter, also speaking of our day, says:
 
->Know this also that there shall come in the last days scoffers, walking in their own lusts, and saying, Where is the promise of his coming? For since the fathers fell asleep, all things continue as they were from the beginning of the world.
+> Know this also that there shall come in the last days scoffers, walking in their own lusts, and saying, Where is the promise of his coming? For since the fathers fell asleep, all things continue as they were from the beginning of the world.
 
 The veteran Paul describes another type as _"Ever learning, but never able to come to the knowledge of the truth,"_and _"As Jannes and Jambres withstood Moses, so also do these resist the truth."_ Some of them do it by outspoken opposition; some, by seeking to thwart its proclamation; some, by engaging in whisper campaigns of criticism.
 
 Of the outspoken opposition, it can be said that they make excellent converts when their spiritual blindness clears away and they see the truth. As for those who devise devious methods and those who work in the dark, Jesus said:
 
->"The disciple is not above his master, nor the servant above his lord. It is enough for the disciple that he be as his master, and the servant as his lord. If they have called the master of the house Beelzebub, how much more shall they call them of his household? Fear them not therefore; for there is nothing covered, that shall not be revealed; and hid, that shall not be known."
+> "The disciple is not above his master, nor the servant above his lord. It is enough for the disciple that he be as his master, and the servant as his lord. If they have called the master of the house Beelzebub, how much more shall they call them of his household? Fear them not therefore; for there is nothing covered, that shall not be revealed; and hid, that shall not be known."
 
 As for the scoffers, multitudes have come to scoff and remained to pray.
 
 There is a great host of conscientious Christians who desire to know the truth but are afflicted with the spiritual blindness described by Paul in Romans 11:25:
-  
->"For I would not, brethren, that ye should be ignorant of this mystery, lest ye should be wise in your own conceits; that blindness in part is happened unto Israel, until the fulness of the Gentiles be come in."
+
+> "For I would not, brethren, that ye should be ignorant of this mystery, lest ye should be wise in your own conceits; that blindness in part is happened unto Israel, until the fulness of the Gentiles be come in."
 
 Regarding the Jews, Paul said:
 
->"Their minds were blinded: for until this day remaineth the veil untaken away in the reading of the Old Testament, which veil is done away in Christ. But even unto this day when Moses is dead, the veil is upon their heart. Nevertheless when they shall turn to the Lord, the veil shall be taken away."
+> "Their minds were blinded: for until this day remaineth the veil untaken away in the reading of the Old Testament, which veil is done away in Christ. But even unto this day when Moses is dead, the veil is upon their heart. Nevertheless when they shall turn to the Lord, the veil shall be taken away."
 
 But the blindness in Ten Tribed Israel in reading Moses and the Old Testament, Paul says, was to continue _"until the fulness of the Gentiles be come in."_ The _"Times of the Gentiles"_ closed when General Allenby took Jerusalemin 1917. The _"Fulness of the Gentiles"_ is manifest in the enormity of human perfidy now being displayed by the dictator nations as their cup of iniquity rapidly fills to the brim. - (Joel 3:13) The hour is close at hand, when Ten Tribed Israel will experience the great awakening foretold by the prophets. The blindness will pass away in the spiritual light which shall break upon their souls regarding their identity and their responsibilities as the chosen people of God. Multitudes in our own and many other lands are already awake and taking their places among the cohorts of the Almighty for the closing days of the age. In presenting the Israel Truth, it is therefore wise to heed the admonition of Paul to Timothy:
-  
->"The servant of the Lord must not strive; but be gentle unto all men, apt to teach, patient, in meekness, instructing those who opposed themselves; if God peradventure will give them repentance to the acknowledging of the truth."
 
-In this spirit we now take up the study of a special type of evasion of the Israel Truth which is very frequently used by some of our fellow professed Christians. When the truth of Israel's identity is presented and cannot be gainsaid, they propose to pass it all up by saying _"Suppose we are Israel. What of it? If I am saved, what difference does it make?"That reply comes so often that it is worthy of consideration, not only for the good of the cause, but for the good of the person who makes it.
+> "The servant of the Lord must not strive; but be gentle unto all men, apt to teach, patient, in meekness, instructing those who opposed themselves; if God peradventure will give them repentance to the acknowledging of the truth."
+
+In this spirit we now take up the study of a special type of evasion of the Israel Truth which is very frequently used by some of our fellow professed Christians. When the truth of Israel's identity is presented and cannot be gainsaid, they propose to pass it all up by saying _"Suppose we are Israel. What of it?_ If I am saved, what difference does it make? "That reply comes so often that it is worthy of consideration, not only for the good of the cause, but for the good of the person who makes it.
 
 The spirit in which the statement is made ranges from mere flippancy to sincere declaration.
 
-With regard to the flippant, each case calls for a decision regarding what should be done. Solomon advises us: _"Answer not a fool according to his folly, lest thou be like unto him"_; and then in about the same breath he says: _"Answer a fool according to his folly, lest he be wise in his own conceit."_Whether coming from the flippant or the conscientious Christian, the statement _"Suppose we are Israel; what difference does it make?"_ assumes a serious aspect. Few, if any,of those who make it have considered for a moment its true import. We, therefore, would analyse the spirit which prompts the statement and the implications involved. At once it is evident that there exists a very shallow knowledge of the Bible and a careless disregard for its sanctity.There is here the manifestation of an egotism unbecoming a child of God. It smacks of the idea that God set in operation all that is revealed in the Scriptures solely to save the individual, and when that is, accomplished, what else is worthy of consideration? There is also present a form of selfishness. If the individual is saved; what difference does anything else make?
+With regard to the flippant, each case calls for a decision regarding what should be done. Solomon advises us: _"Answer not a fool according to his folly, lest thou be like unto him"_; and then in about the same breath he says: _"Answer a fool according to his folly, lest he be wise in his own conceit."_ Whether coming from the flippant or the conscientious Christian, the statement _"Suppose we are Israel; what difference does it make?"_ assumes a serious aspect. Few, if any, of those who make it have considered for a moment its true import. We, therefore, would analyze the spirit which prompts the statement and the implications involved. At once it is evident that there exists a very shallow knowledge of the Bible and a careless disregard for its sanctity. There is here the manifestation of an egotism unbecoming a child of God. It smacks of the idea that God set in operation all that is revealed in the Scriptures solely to save the individual, and when that is, accomplished, what else is worthy of consideration? There is also present a form of selfishness. If the individual is saved; what difference does anything else make?
 
 Aside from the mental state which the question in each instance, so eloquently portrays, there is an attitude of heart and soul, thus declared, which should be a matter of serious concern to the professed Christian, when weighed in the light of things spiritual and divine.
 
@@ -59,7 +59,7 @@ Taking for granted, as is here done, that we really are Israel as revealed in th
 
 It discloses the want of due regard for God and His Word. That soul needs to learn what Moses learned that day in the desert when the Voice from the bush told him to remove his shoes for the ground on which he stood was holy ground. That soul needs to learn the lesson taught by Uzziah's tragedy; realized by Isaiah, when in the temple, he saw the Lord high and lifted up; exemplified by John on the Isle of Patmos when he beheld the divine messenger and fell at His feet as dead; and proclaimed by the angels when they veil their faces and cry _"Holy, holy, holy, Lord God Almighty!"_
 
-The spiritually minded ever remember that God is holy and His Word holy; that man lives by every word which proceedeth out of the mouth of God; and that the words which He speaks _"they are Spirit and they are life,"_whether found in the Old Testament and the New Testament, whether proclaimed by the eminent divine or the humble scrub woman. No one can wave aside the acknowledged truth of God with _"What difference does it make?"_ without irreverence.
+The spiritually minded ever remember that God is holy and His Word holy; that man lives by every word which proceedeth out of the mouth of God; and that the words which He speaks _"they are Spirit and they are life,"_ whether found in the Old Testament and the New Testament, whether proclaimed by the eminent divine or the humble scrub woman. No one can wave aside the acknowledged truth of God with _"What difference does it make?"_ without irreverence.
 
 ### PRESUMPTION
 
@@ -91,6 +91,7 @@ God, in His wisdom, chose Israel to be used by Him in His great plan for the tra
 ### REPUDIATES ABOUT FIVE-SEVENTHS OF THE BIBLE
 
 Allowing ample space in the Bible for the presentation of the Gospel to the individual, God wrote about five sevenths of the Bible as His message to the nations. An important integral part, related to almost every phase of this revelation, is the great nation Israel, promised by God to Abraham. Five sevenths is a lot of Bible to scrap, brother. The hypercritical at their worst do not have the temerity to attempt any more; and they are busy all of the time knifing the Scriptures, cutting out and deleting. One of their modern achievements is called **"The Polychrome Bible,"** in which they have made the book an infidel aurora borealis by printing the words they criticise in the various colors of the rainbow.
+
 But the _"What difference does it make?_" folks throw away five-sevenths of the Bible in one lump. The infidel critics do their work piecemeal, while these believer critics do theirs wholesale. They virtually say: _'This will I accept, enjoy and live; but God's message to the nations -'What difference does it make?'"_That statement - literally -
 
 ### THROWS AWAY THE KEY TO THE BIBLE
@@ -106,6 +107,7 @@ Take the whole Gospel of individual salvation wherever presented in the Word of 
 ### BELITTLES THE FAITHFULNESS OF GOD
 
 If we are Israel, then God has done a stupendous thing. He has kept faith with Abraham. Centuries ago He made an unconditional, irrevocable, covenant with Abraham to increase and preserve his posterity throughout all generations. And now, here we are, many nations of Israel, right here on the planet after almost 4,000 years.
+
 What kind or grade of Christianity is it that can see in that nothing to excite gratitude, joy and praise for a covenant keeping God? The Sweet Singer of Israel wrote some of his most wonderful songs in appreciation of that faithfulness. In the metrical version of Psalm 89:1, he sings:
 
 > _"The loving kindness of the Lord_
@@ -139,6 +141,7 @@ The birthright of race made quite a difference to Ishmael, the son of the bond w
 The birthright of race also made quite a difference to the sons of Keturah, whose descendants are the Brahmins of India.
 
 _"Suppose we are Israel,"_ then we are the lineal descendants of Abraham through Sarah, Isaac and Jacob. There is a world of difference in the blessings of race, country, enlightenment and opportunity bestowed upon the descendants of these and that which was bestowed upon the Brahmins, the Arabs, and the Turks.
+
 While there is no place here for race pride, there is a large place for grateful joy in the arbitrary goodness of God, and for appreciation of the gifts bestowed by God upon us as a race. The conscientious Christian is certainly among those who follow after righteousness and who seek the Lord. Isaiah 51:1, 2 was written for him. In that Scripture, God directs him to take two looks of appreciation, joy, thanksgiving and encouragement in birthright of race. Thus it reads:
 
 > "Hearken to me, (God is speaking, not an Israel preacher) ye that follow after righteousness, ye that seek the Lord: look unto the rock whence ye are hewn, and to the hole of the pit whence ye are digged. Look unto Abraham your father, and unto Sarah, that bare you: for I called him alone, and blessed him, and increased him."
@@ -149,7 +152,7 @@ _"Suppose we are Israel,"_ then we participate in the great covenant made by God
 
 > "I will establish my covenant between me and thee and thy seed after thee in their generations for an everlasting covenant, to be a God unto thee, and to thy seed after thee." - (Genesis 17:7)
 
-Note that the_"seed"_ of Abraham in this promise is plural.
+Note that the _"seed"_ of Abraham in this promise is plural.
 
 Can it be possible that it means nothing to the believer to be chosen of God as an heir of that covenant, which, in all of its ramifications, God unfolds through the remainder of the Scriptures? Is it a light thing to be the heir of the grand legacy made certain to the Israel people through God's oath to Abraham? Well, as the present world conditions come toward their conclusion, there will be a mighty multitude who will rejoice that they live under the provisions of that gracious covenant.
 
@@ -162,15 +165,16 @@ The other fruits of the Kingdom of God on earth which were to be brought forth b
 ### SPURNS THE HONOURS CONFERRED BY GOD
 
 The man who has his eyes on the skies in contemplation of the glories, honors and emoluments which God will confer in the life to come, cannot serve God or his own highest spiritual welfare by spurning the honors which God has bestowed upon him, here on earth, as one of his Israel people.
+
 It does not require great research to find a host of texts in which God reveals the exalted position given to his chosen race. A few, however, should suffice:
 
 * Isaiah 43:1,4. _"But now thus saith the Lord that created thee, O Jacob, and He that formed thee, O Israel, Fear not for I have redeemed thee, I have called thee by thy name, thou art mine..... Since thou wast precious in my sight, thou hast been honourable and I have loved thee"_
 * I Kings 8:53. _"Thou didst separate them from among all the people of the earth, to be thine inheritance."_
 * Psalm 135:4._"For the Lord hath chosen Jacob unto himself, and Israel for his peculiar treasure."_
 * Deuteronomy 7:6 _"For thou art an holy people (set apart for God's use) unto the Lord thy God: the Lord thy God hath chosen thee to be a special people unto himself, above all people that are upon the face of the earth."_
-* Deuteronomy 14:2 _"The Lord hath chosen thee to be a peculiar people unto Himself above all the nations that are upon the earth."_
-   
-  God has certainly lavished the honors and blessings upon Israel and, in the few texts cited, there is enough to give the Israel Christian abundant reason for joy and thanksgiving. Note the honors conferred: He chose them, redeemed them, claimed them for his own, separated them, calls them precious, his peculiar treasure, his special people, his inheritance above all the peoples of the earth.
+* Deuteronomy 14:2 _"The Lord hath chosen thee to be a peculiar people unto Himself above all the nations that are upon the earth."_  
+* 
+* God has certainly lavished the honors and blessings upon Israel and, in the few texts cited, there is enough to give the Israel Christian abundant reason for joy and thanksgiving. Note the honors conferred: He chose them, redeemed them, claimed them for his own, separated them, calls them precious, his peculiar treasure, his special people, his inheritance above all the peoples of the earth.
 
 Think of any believer reading all of that and then turning upon his heel and saying _"Suppose we are Israel: What difference does it make?"_ Well, let us suppose again. Suppose the king of a great empire assembled his armies on the plain, thousands upon thousands of them, and, as they stood at attention, he should call out of the ranks one man and announce that he had chosen him to be his intimate aide de camp; and, in the presence of the vast multitude, he should pin upon his breast the badge which signified the honors, titles and emoluments conferred. Suppose that young man responded to all of this by simply taking the medal and nonchalantly flicking it into the air. We can easily imagine the consternation it would cause in the king and in the ranks. Yet this is the treatment God receives from those who say: _"Suppose we are Israel: What difference does it make?"_
 
@@ -200,7 +204,7 @@ After years of acquaintance with the whole field of Gospel preaching, we have no
 
 God chose the Israel people as His servant race and appointed them His witnesses to set up the ensign of divine truth to the nations of the world. If there ever was an hour when such a work was needed, it is now, as the nations wade in their welter of woe.
 
-That Christocracy which God set up at Sinai with its constitution, law, statutes and judgments is the sunrise for which the world is now waiting. Brother, Sister, can you conscientiously face your Master and say: _"I'm saved. Suppose we are Israel; what of it? What difference does it make?"_ To use a street term; _"Come out of it."_The world is languishing in its national sins as well as its individual sins. The great Divine climax of the ages is about to break upon the nations. God, in His mercy, has given the great Gospel of the Kingdom of God on earth, not merely to be held but to be heralded in these closing hours of a dying age. Now is the time to earn your _"Well done, thou good and faithful servant,"_ promised in that great Kingdom parable.
+That Christocracy which God set up at Sinai with its constitution, law, statutes and judgments is the sunrise for which the world is now waiting. Brother, Sister, can you conscientiously face your Master and say: _"I'm saved. Suppose we are Israel; what of it? What difference does it make?"_ To use a street term; "_Come out of it."_ The world is languishing in its national sins as well as its individual sins. The great Divine climax of the ages is about to break upon the nations. God, in His mercy, has given the great Gospel of the Kingdom of God on earth, not merely to be held but to be heralded in these closing hours of a dying age. Now is the time to earn your _"Well done, thou good and faithful servant,"_ promised in that great Kingdom parable.
 
 # DR. JAMES S. McGAW
 
@@ -210,11 +214,11 @@ His conversion to this great truth was occasioned by a Jew who owned a haberdash
 
 Indebted to the Jewish merchant for his graciousness, Dr. McGaw took this opportunity to speak to the man concerning the claims of Jesus Christ. One approach after another failed. So finally in a final desperate attempt to win the man before the train arrived, Dr. McGaw said, _"The Jews are God's chosen people, and Jesus was a Jew, therefore you ought to accept Him as your own personal Saviour."_
 
-"Ah, ah," said the Jew, _"this is where you are mistaken."_
+_"Ah, ah,"_ said the Jew, _"this is where you are mistaken."_
 
-Taken back by this retort the doctor said,_"Well if the Jews are not the chosen people, I'd like to know who are."_ The Jew answered, _"If you really want to know who the chosen people are, read **Judah's Sceptre and Joseph's Birthright,**_ by Bishop Allen." Dr. McGaw gulped for breath at this sudden turn of events, which blasted all his theological training. So he determined to get the book and read it. It was almost a year before he was able to secure a copy. Then in the quietness of his room, the first night with the book and his Greek and Hebrew text beside him, he became so intrigued with its message that he could not lay it down until he was suddenly confronted with the breaking rays of the morning sunrise. As the sun arose he finished the book with the light of a new truth in his soul.
+Taken back by this retort the doctor said, _"Well if the Jews are not the chosen people, I'd like to know who are."_ The Jew answered, _"If you really want to know who the chosen people are, read **Judah's Sceptre and Joseph's Birthright,**_ by Bishop Allen." Dr. McGaw gulped for breath at this sudden turn of events, which blasted all his theological training. So he determined to get the book and read it. It was almost a year before he was able to secure a copy. Then in the quietness of his room, the first night with the book and his Greek and Hebrew text beside him, he became so intrigued with its message that he could not lay it down until he was suddenly confronted with the breaking rays of the morning sunrise. As the sun arose he finished the book with the light of a new truth in his soul.
 
-Subsequent studies made him a master of the NATIONAL MESSAGE OF THE BIBLE, and one of the strongest speakers on the American platform, always speaking with authority in his discussions. His two studies, **"Outline Studies in the Covenants of the Bible,"**and **"The State Religion of Israel, or Symbolism of the Old Testament Ritual,"**have never been equated in their comprehensiveness and lucidity. His own testimony as to the value of this truth is stated in the following words:
+Subsequent studies made him a master of the NATIONAL MESSAGE OF THE BIBLE, and one of the strongest speakers on the American platform, always speaking with authority in his discussions. His two studies, **_Outline Studies in the Covenants of the Bible_**, and **_The State Religion of Israel, or Symbolism of the Old Testament Ritual_**, have never been equated in their comprehensiveness and lucidity. His own testimony as to the value of this truth is stated in the following words:
 
 > "The revelations brought to me through the study of the 'Israel Truth' have definitely established my faith in the Bible as the inspired Word of God and proved to my complete satisfaction that God is a God of order, manifested in a mighty plan and program unfolded in the eight covenants, the prophets and the Gospels, and fulfilled in and through the special creation of His chosen people Israel. With this vision, the sixty-six books of the Bible are seen to be a complete disclosure of God's love, and a marvelous unit, symmetrical, coordinated, harmonious and progressive from Genesis to Revelation.
 
