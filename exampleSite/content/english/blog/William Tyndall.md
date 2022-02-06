@@ -1,16 +1,18 @@
 ---
 title: William Tyndale
-description: William Tyndale was the first man to ever print the New Testament in
-  the English language.
+description: 1884 bronze memorial statue by Sir Edgar Boehm to William Tyndale (1494-1536),
+  in the Victoria Embankment Gardens, beside the River Thames in the City of Westminster,
+  London, England.
 images:
-- images/post/03.jpg
+- "/images/william_tyndale.jpg"
 date: 2021-01-25T11:33:57.000+06:00
 author: Historicist
 tags:
-- Alarm
-- Clock
-categories:
-- LifeStyle
+- new testament
+- bible
+- tyndale
+- reformation
+categories: []
 
 ---
 William Tyndale was the Captain of the Army of Reformers, and was their spiritual leader. Tyndale holds the distinction of being the first man to ever print the New Testament in the English language. Tyndale was a true scholar and a genius, so fluent in eight languages that it was said one would think any one of them to be his native tongue. He is frequently referred to as the “Architect of the English Language”, (even more so than William Shakespeare) as so many of the phrases Tyndale coined are still in our language today.
