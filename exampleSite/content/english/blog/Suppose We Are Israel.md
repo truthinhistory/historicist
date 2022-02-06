@@ -1,14 +1,15 @@
 ---
 title: Suppose We Are Israel
-description: meta description
-images: []
+description: Fingerprint
+images:
+- "/images/fingerprint.jpg"
 date: 2022-02-06T00:00:00-06:00
 author: James S McCaw D.D.
 tags:
-- Alarm
-- Clock
+- Identity
+- Israel
 categories:
-- LifeStyle
+- Israel
 
 ---
 ## WHAT DIFFERENCE DOES IT MAKE?
