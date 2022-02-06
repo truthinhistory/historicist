@@ -1,20 +1,28 @@
 ---
 title: The Vials of Wrath - Revelation 16:1
-description: meta description
+description: Seven golden vials full of the wrath of God are distributed
 images:
-- images/post/03.jpg
-date: 2021-01-25T11:33:57.000+06:00
-author: Lubana Era
+- "/images/vials_of_wrath.jpg"
+date: 
+author: Historicist
 tags:
-- Alarm
-- Clock
+- Prophecy
+- Truth
+- Angel
+- Napoleon
+- Plagues
+- Revelation
+- Beast
+- Pope
+- Vial
 categories:
-- LifeStyle
+- Futurism
 
 ---
 Much discussion has been indulged in respecting these last "plagues," and what facts of history answer to each separate "vial." As they were of no special importance to our main subject we embody our opinions of these plagues in this place simply as confirmatory evidence of the truth of our conclusions respecting the death blow to the Papacy and evidence of the truth of scripture prophecy.
 
 It is to be noticed that the first vial was poured out "upon the earth," from which arose the "beast" of Rev. 13:11 which has generally been held to be a symbol of the ecclesiastical branch of the Papacy.
+
 Hence the "noisome and grievous sore" indicates a pestilential moral atmosphere, and a foul spirit of opposition and infidelity among the adherents of the Church, which could only find its counterpart in the demoniac rage of the Catholic people of France and even the defection of the bishops and clergy, as stated in chap. 10.
  
 The second vial was poured out "upon the sea," which as a symbol we have shown to denote vast masses of corrupt people, from the midst of whom corrupt and wicked rulers might arise, as monsters from the sea. This was most emphatically realized during this same Revolution of '93-94 when Royalty was dethroned, and the ruling powers were taken from the ranks of the people and often from the lowest classes during that terrible "reign of terror, " "and it (the sea) became as the blood of a dead man." About one-tenth of the population of France (3,000,000) were ruthlessly murdered in this "great earthquake, and the tenth part of the city fell" (Rev. 11:13).
