@@ -1,8 +1,8 @@
 ---
 title: " Were the Reformers Deceived?"
-description: meta description
+description: Painting of Luther nailing 95 theses
 images:
-- images/post/03.jpg
+- "/images/martin_luther_95_thesis.jpg"
 date: 
 author: Historicist
 tags:
