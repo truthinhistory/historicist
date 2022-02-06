@@ -1,15 +1,20 @@
 ---
 title: The Times of the Gentiles
-description: meta description
+description: Daniel before Nebuchadnezzar
 images:
-- images/post/03.jpg
+- "/images/nebuchadnezzars_dream.jpg"
 date: 2021-01-25T11:33:57.000+06:00
-author: Lubana Era
+author: Historicist
 tags:
-- Alarm
-- Clock
+- Israel
+- Daniel
+- Kingdoms
+- Gentiles
+- ''
+- Babylon
+- Nebuchadnezzar
 categories:
-- LifeStyle
+- Revelation
 
 ---
 When Nebuchadnezzar is told by Daniel in the interpretation of the king's wonderful dream that seven times should pass over him, and a beast's heart should be given him until he should learn that the Most High ruleth in the heavens and on earth, we judge that seven literal years are intended, and so it is generally held. But when God declares in respect to the national life of Israel that He would punish them yet seven times if they continued to disregard his will, we judge that a much longer time is intended, by so much as the life of a nation is longer than that of an individual, extending even to a cycle of seven years of years or 2520 years.
