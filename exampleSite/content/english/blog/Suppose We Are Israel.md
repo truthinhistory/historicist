@@ -145,8 +145,8 @@ _"Suppose we are Israel,"_ then we are the lineal descendants of Abraham through
 While there is no place here for race pride, there is a large place for grateful joy in the arbitrary goodness of God, and for appreciation of the gifts bestowed by God upon us as a race. The conscientious Christian is certainly among those who follow after righteousness and who seek the Lord. Isaiah 51:1, 2 was written for him. In that Scripture, God directs him to take two looks of appreciation, joy, thanksgiving and encouragement in birthright of race. Thus it reads:
 
 > "Hearken to me, (God is speaking, not an Israel preacher) ye that follow after righteousness, ye that seek the Lord: look unto the rock whence ye are hewn, and to the hole of the pit whence ye are digged. Look unto Abraham your father, and unto Sarah, that bare you: for I called him alone, and blessed him, and increased him."
->  
-> _"Suppose we are Israel;"_ then we are the recipients of the only God ordained royal blood on this planet through Abraham, the divinely appointed father of kings, and through Sarah, the Princess, mother of Kings - (Genesis 17:6, 16) And, if we will receive it, that royalty accounts for many of the racial characteristics of the Israel nations, which stand out so clearly today in contrast to the Gentile dictator nations.
+
+_"Suppose we are Israel;"_ then we are the recipients of the only God ordained royal blood on this planet through Abraham, the divinely appointed father of kings, and through Sarah, the Princess, mother of Kings - (Genesis 17:6, 16) And, if we will receive it, that royalty accounts for many of the racial characteristics of the Israel nations, which stand out so clearly today in contrast to the Gentile dictator nations.
 
 _"Suppose we are Israel,"_ then we participate in the great covenant made by God with Abraham, so comprehensive that it included all the covenants which followed it, both temporal and spiritual. In fact, if we be Israel, then that covenant of God was made directly with us; for God definitely stipulates:
 
@@ -168,13 +168,13 @@ The man who has his eyes on the skies in contemplation of the glories, honors an
 
 It does not require great research to find a host of texts in which God reveals the exalted position given to his chosen race. A few, however, should suffice:
 
-* Isaiah 43:1,4. _"But now thus saith the Lord that created thee, O Jacob, and He that formed thee, O Israel, Fear not for I have redeemed thee, I have called thee by thy name, thou art mine..... Since thou wast precious in my sight, thou hast been honourable and I have loved thee"_
-* I Kings 8:53. _"Thou didst separate them from among all the people of the earth, to be thine inheritance."_
-* Psalm 135:4._"For the Lord hath chosen Jacob unto himself, and Israel for his peculiar treasure."_
-* Deuteronomy 7:6 _"For thou art an holy people (set apart for God's use) unto the Lord thy God: the Lord thy God hath chosen thee to be a special people unto himself, above all people that are upon the face of the earth."_
-* Deuteronomy 14:2 _"The Lord hath chosen thee to be a peculiar people unto Himself above all the nations that are upon the earth."_  
-* 
-* God has certainly lavished the honors and blessings upon Israel and, in the few texts cited, there is enough to give the Israel Christian abundant reason for joy and thanksgiving. Note the honors conferred: He chose them, redeemed them, claimed them for his own, separated them, calls them precious, his peculiar treasure, his special people, his inheritance above all the peoples of the earth.
+- Isaiah 43:1,4. _"But now thus saith the Lord that created thee, O Jacob, and He that formed thee, O Israel, Fear not for I have redeemed thee, I have called thee by thy name, thou art mine..... Since thou wast precious in my sight, thou hast been honourable and I have loved thee"_
+- I Kings 8:53. _"Thou didst separate them from among all the people of the earth, to be thine inheritance."_
+- Psalm 135:4._"For the Lord hath chosen Jacob unto himself, and Israel for his peculiar treasure."_
+- Deuteronomy 7:6 _"For thou art an holy people (set apart for God's use) unto the Lord thy God: the Lord thy God hath chosen thee to be a special people unto himself, above all people that are upon the face of the earth."_
+- Deuteronomy 14:2 _"The Lord hath chosen thee to be a peculiar people unto Himself above all the nations that are upon the earth."_  
+ 
+God has certainly lavished the honors and blessings upon Israel and, in the few texts cited, there is enough to give the Israel Christian abundant reason for joy and thanksgiving. Note the honors conferred: He chose them, redeemed them, claimed them for his own, separated them, calls them precious, his peculiar treasure, his special people, his inheritance above all the peoples of the earth.
 
 Think of any believer reading all of that and then turning upon his heel and saying _"Suppose we are Israel: What difference does it make?"_ Well, let us suppose again. Suppose the king of a great empire assembled his armies on the plain, thousands upon thousands of them, and, as they stood at attention, he should call out of the ranks one man and announce that he had chosen him to be his intimate aide de camp; and, in the presence of the vast multitude, he should pin upon his breast the badge which signified the honors, titles and emoluments conferred. Suppose that young man responded to all of this by simply taking the medal and nonchalantly flicking it into the air. We can easily imagine the consternation it would cause in the king and in the ranks. Yet this is the treatment God receives from those who say: _"Suppose we are Israel: What difference does it make?"_
 
@@ -206,7 +206,7 @@ God chose the Israel people as His servant race and appointed them His witnesses
 
 That Christocracy which God set up at Sinai with its constitution, law, statutes and judgments is the sunrise for which the world is now waiting. Brother, Sister, can you conscientiously face your Master and say: _"I'm saved. Suppose we are Israel; what of it? What difference does it make?"_ To use a street term; "_Come out of it."_ The world is languishing in its national sins as well as its individual sins. The great Divine climax of the ages is about to break upon the nations. God, in His mercy, has given the great Gospel of the Kingdom of God on earth, not merely to be held but to be heralded in these closing hours of a dying age. Now is the time to earn your _"Well done, thou good and faithful servant,"_ promised in that great Kingdom parable.
 
-# DR. JAMES S. McGAW
+### DR. JAMES S. McGAW
 
 Dr. James S. McGaw, the author of this tract, was a Scots Covenanter. He was a life-long minister in The Reformed Presbyterian Church. For seventeen years he represented the National Reform Association, which took him on speaking engagements into 46 states. It was his interest in Christian civil government which laid the foundation for a ready acceptance of the national message of the Bible.
 
