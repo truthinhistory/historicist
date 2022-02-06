@@ -82,8 +82,8 @@ It made a great difference to the scholars who dug deep into the Bible and human
 What a difference exists between the mental and spiritual appetite of the evader of truth and that of the prophet Jeremiah when he said:
 
 > "Thy words were found, and I did eat them; and thy word was unto me the joy and the rejoicing of mine heart, for I am called by thy name, 0 Lord God of Hosts!"
->
->  ### DISPARAGES THE WISDOM OF GOD
+
+### DISPARAGES THE WISDOM OF GOD
 
 God, in His wisdom, chose Israel to be used by Him in His great plan for the transformation of a lost world. He also wrote a large portion of the Bible to tell us about Israel's part in that plan. Can we not see that to select only a portion of the Book, and that only the portion which pertains to one's individual salvation, is to simply tell God that He was silly in furnishing any more? Can we not see that it sets up the finite in judgment of the Infinite? It practically declares Him to be foolish in doing any more or revealing any more than would get us saved eternally.
 
