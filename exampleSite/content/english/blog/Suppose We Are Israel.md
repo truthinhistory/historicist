@@ -18,22 +18,23 @@ While, ordinarily, that which has been patently revealed cannot he called a disc
 
 Archeology, Biblical research and modern translations have done wonders in substantiating the validity and in the elucidation of the Word of God. But all of these are subservient to and corroborative of the great discovery that God is a God of order; that He actually devised a plan and program for the redemption of our planet; that, essential to that plan and program, he chose Ten Tribed Israel; and that they are extant on the earth today. But like the prophets of old, this great truth has met with indifference, unbelief and opposition. Even the great evangelistic prophet Isaiah could say of his day: _"Who hath believed our report?"_ Jesus knew that the same spirit would be manifested in our day and accordingly presented the Kingdom parable of the sower; in which He cites four kinds of hearers and warned the disciples that the only kind of hearers which could be depended upon to receive the Kingdom message were the "good and honest hearts." He told His disciples just how it would be in our day when He said:
 
-> As it was in the days of Noah, so shall it be also in the days of the Son of man.
+>As it was in the days of Noah, so shall it be also in the days of the Son of man.
 
 Noah earnestly proclaimed the coming of the flood but the people of his day _"knew not,"_ did not care to know, until the flood came and swept them all away.
 The Apostle Peter, also speaking of our day, says:
 
-> Know this also that there shall come in the last days scoffers, walking in their own lusts, and saying, Where is the promise of his coming? For since the fathers fell asleep, all things continue as they were from the beginning of the world.
+>Know this also that there shall come in the last days scoffers, walking in their own lusts, and saying, Where is the promise of his coming? For since the fathers fell asleep, all things continue as they were from the beginning of the world.
 
 The veteran Paul describes another type as _"Ever learning, but never able to come to the knowledge of the truth,"_and _"As Jannes and Jambres withstood Moses, so also do these resist the truth."_ Some of them do it by outspoken opposition; some, by seeking to thwart its proclamation; some, by engaging in whisper campaigns of criticism.
 
 Of the outspoken opposition, it can be said that they make excellent converts when their spiritual blindness clears away and they see the truth. As for those who devise devious methods and those who work in the dark, Jesus said:
 
-> "The disciple is not above his master, nor the servant above his lord. It is enough for the disciple that he be as his master, and the servant as his lord. If they have called the master of the house Beelzebub, how much more shall they call them of his household? Fear them not therefore; for there is nothing covered, that shall not be revealed; and hid, that shall not be known."
->  
-> As for the scoffers, multitudes have come to scoff and remained to pray.
-> There is a great host of conscientious Christians who desire to know the truth but are afflicted with the spiritual blindness described by Paul in Romans 11:25:
->  
+>"The disciple is not above his master, nor the servant above his lord. It is enough for the disciple that he be as his master, and the servant as his lord. If they have called the master of the house Beelzebub, how much more shall they call them of his household? Fear them not therefore; for there is nothing covered, that shall not be revealed; and hid, that shall not be known."
+
+As for the scoffers, multitudes have come to scoff and remained to pray.
+
+There is a great host of conscientious Christians who desire to know the truth but are afflicted with the spiritual blindness described by Paul in Romans 11:25:
+  
 >"For I would not, brethren, that ye should be ignorant of this mystery, lest ye should be wise in your own conceits; that blindness in part is happened unto Israel, until the fulness of the Gentiles be come in."
   
 Regarding the Jews, Paul said:
@@ -42,7 +43,7 @@ Regarding the Jews, Paul said:
 
 But the blindness in Ten Tribed Israel in reading Moses and the Old Testament, Paul says, was to continue _"until the fulness of the Gentiles be come in."_ The _"Times of the Gentiles"_ closed when General Allenby took Jerusalemin 1917. The _"Fulness of the Gentiles"_ is manifest in the enormity of human perfidy now being displayed by the dictator nations as their cup of iniquity rapidly fills to the brim. - (Joel 3:13) The hour is close at hand, when Ten Tribed Israel will experience the great awakening foretold by the prophets. The blindness will pass away in the spiritual light which shall break upon their souls regarding their identity and their responsibilities as the chosen people of God. Multitudes in our own and many other lands are already awake and taking their places among the cohorts of the Almighty for the closing days of the age. In presenting the Israel Truth, it is therefore wise to heed the admonition of Paul to Timothy:
   
-> "The servant of the Lord must not strive; but be gentle unto all men, apt to teach, patient, in meekness, instructing those who opposed themselves; if God peradventure will give them repentance to the acknowledging of the truth."
+>"The servant of the Lord must not strive; but be gentle unto all men, apt to teach, patient, in meekness, instructing those who opposed themselves; if God peradventure will give them repentance to the acknowledging of the truth."
 
 In this spirit we now take up the study of a special type of evasion of the Israel Truth which is very frequently used by some of our fellow professed Christians. When the truth of Israel's identity is presented and cannot be gainsaid, they propose to pass it all up by saying _"Suppose we are Israel. What of it? If I am saved, what difference does it make?"That reply comes so often that it is worthy of consideration, not only for the good of the cause, but for the good of the person who makes it.
 
