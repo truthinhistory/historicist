@@ -1,15 +1,21 @@
 ---
 title: Preterist View
-description: meta description
+description: Rome in 410AD
 images:
-- images/post/03.jpg
-date: 2021-01-25T11:33:57.000+06:00
-author: Lubana Era
+- "/images/rome_410_ad.jpg"
+date: 2022-02-05T00:00:00-06:00
+author: Charles A. Jennings
 tags:
-- Alarm
-- Clock
+- ''
+- Beast
+- Saints
+- Heaven
+- Rome
+- Revelation
+- Daniel
+- 'Pagan '
 categories:
-- LifeStyle
+- Preterism
 
 ---
 ### Unfulfilled Prophecy as of 70 AD
