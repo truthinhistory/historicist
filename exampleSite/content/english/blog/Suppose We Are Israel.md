@@ -68,8 +68,8 @@ The spiritually minded ever remember that God is holy and His Word holy; that ma
 _"Suppose we are Israel; What difference does it make?"_ There is here, plainly implied, the fact that the speaker does not intend to accept or live by it anyway. This assumes the right of the individual to look the Word of God over, select what suits his whim or fancy and discard the balance. But Paul made it very plain to Timothy that:
 
 > All Scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness: that the man of God may be perfect, thoroughly furnished unto all good works.
->  
-> The Bible, as given by God is a complete whole. It stands or falls in one piece. It declares the whole counsel of God and it required nothing short of the whole book to declare it. Otherwise, much of it would not have been written. It must be accepted in its entirety.
+
+The Bible, as given by God is a complete whole. It stands or falls in one piece. It declares the whole counsel of God and it required nothing short of the whole book to declare it. Otherwise, much of it would not have been written. It must be accepted in its entirety.
 
 It is not, therefore, within the province of man to go through the book, sorting and picking this and that, which he proposes to accept and say with regard to the remainder _"What difference does it make"_, To do so is the height of presumption.
 
