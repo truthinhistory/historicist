@@ -18,12 +18,12 @@ While, ordinarily, that which has been patently revealed cannot he called a disc
 
 Archeology, Biblical research and modern translations have done wonders in substantiating the validity and in the elucidation of the Word of God. But all of these are subservient to and corroborative of the great discovery that God is a God of order; that He actually devised a plan and program for the redemption of our planet; that, essential to that plan and program, he chose Ten Tribed Israel; and that they are extant on the earth today. But like the prophets of old, this great truth has met with indifference, unbelief and opposition. Even the great evangelistic prophet Isaiah could say of his day: _"Who hath believed our report?"_ Jesus knew that the same spirit would be manifested in our day and accordingly presented the Kingdom parable of the sower; in which He cites four kinds of hearers and warned the disciples that the only kind of hearers which could be depended upon to receive the Kingdom message were the "good and honest hearts." He told His disciples just how it would be in our day when He said:
 
->As it was in the days of Noah, so shall it be also in the days of the Son of man.
+> As it was in the days of Noah, so shall it be also in the days of the Son of man.
 
 Noah earnestly proclaimed the coming of the flood but the people of his day _"knew not,"_ did not care to know, until the flood came and swept them all away.
 The Apostle Peter, also speaking of our day, says:
 
->Know this also that there shall come in the last days scoffers, walking in their own lusts, and saying, Where is the promise of his coming? For since the fathers fell asleep, all things continue as they were from the beginning of the world.
+> Know this also that there shall come in the last days scoffers, walking in their own lusts, and saying, Where is the promise of his coming? For since the fathers fell asleep, all things continue as they were from the beginning of the world.
 
 The veteran Paul describes another type as _"Ever learning, but never able to come to the knowledge of the truth,"_and _"As Jannes and Jambres withstood Moses, so also do these resist the truth."_ Some of them do it by outspoken opposition; some, by seeking to thwart its proclamation; some, by engaging in whisper campaigns of criticism.
 
@@ -46,18 +46,23 @@ Of the outspoken opposition, it can be said that they make excellent converts wh
 >  
 > In this spirit we now take up the study of a special type of evasion of the Israel Truth which is very frequently used by some of our fellow professed Christians. When the truth of Israel's identity is presented and cannot be gainsaid, they propose to pass it all up by saying _"Suppose we are Israel. What of it? If I am saved, what difference does it make?"_That reply comes so often that it is worthy of consideration, not only for the good of the cause, but for the good of the person who makes it.
 > The spirit in which the statement is made ranges from mere flippancy to sincere declaration.
+>
+> 
 > With regard to the flippant, each case calls for a decision regarding what should be done. Solomon advises us: _''Answer not a fool according to his folly, lest thou be like unto him"_; and then in about the same breath he says: _''Answer a fool according to his folly, lest he be wise in his own conceit."_Whether coming from the flippant or the conscientious Christian, the statement _"Suppose we are Israel; what difference does it make?"_ assumes a serious aspect. Few, if any,of those who make it have considered for a moment its true import. We, therefore, would analyse the spirit which prompts the statement and the implications involved. At once it is evident that there exists a very shallow knowledge of the Bible and a careless disregard for its sanctity.There is here the manifestation of an egotism unbecoming a child of God. It smacks of the idea that God set in operation all that is revealed in the Scriptures solely to save the individual, and when that is, accomplished, what else is worthy of consideration? There is also present a form of selfishness. If the individual is saved; what difference does anything else make?
 > Aside from the mental state which the question in each instance, so eloquently portrays, there is an attitude of heart and soul, thus declared, which should be a matter of serious concern to the professed Christian, when weighed in the light of things spiritual and divine.
+>
+> 
 > Taking for granted, as is here done, that we really are Israel as revealed in the Word of God, the question _"What difference does it make?"!_
 
 ### LACKS REVERENCE
 
 It discloses the want of due regard for God and His Word. That soul needs to learn what Moses learned that day in the desert when the Voice from the bush told him to remove his shoes for the ground on which he stood was holy ground. That soul needs to learn the lesson taught by Uzziah's tragedy; realized by Isaiah, when in the temple, he saw the Lord high and lifted up; exemplified by John on the Isle of Patmos when he beheld the divine messenger and fell at His feet as dead; and proclaimed by the angels when they veil their faces and cry _"Holy, holy, holy, Lord God Almighty!"_
+
 The spiritually minded ever remember that God is holy and His Word holy; that man lives by every word which proceedeth out of the mouth of God; and that the words which He speaks _"they are Spirit and they are life,"_whether found in the Old Testament and the New Testament, whether proclaimed by the eminent divine or the humble scrub woman. No one can wave aside the acknowledged truth of God with _"What difference does it make?"_ without irreverence.
 
 ### PRESUMPTION
 
-_"Suppose we are Israel; What difference does it make?"_ There is here, plainly implied, the fact that the speaker does not intend to accept or live by it anyway. This assumes the right of the individual to look the Word of God over, select what suits his whim or fancy and discard the balance. But Paul made it very plain to Timothy that
+_"Suppose we are Israel; What difference does it make?"_ There is here, plainly implied, the fact that the speaker does not intend to accept or live by it anyway. This assumes the right of the individual to look the Word of God over, select what suits his whim or fancy and discard the balance. But Paul made it very plain to Timothy that:
 
 > All Scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness: that the man of God may be perfect, thoroughly furnished unto all good works.
 >  
@@ -66,7 +71,7 @@ _"Suppose we are Israel; What difference does it make?"_ There is here, plainly 
 
 ### INSULTS, STULTIFIES ONE'S OWN SPIRITUAL INTELLIGENCE
 
-_"What difference does it make?"_bespeaks an attenuated idea of the Scriptures and the great purpose of God in furnishing them to mankind; or, a closed mind; or, a spiritual indolence which does not want to be disturbed.
+_"What difference does it make?"_ bespeaks an attenuated idea of the Scriptures and the great purpose of God in furnishing them to mankind; or, a closed mind; or, a spiritual indolence which does not want to be disturbed.
 
 However, in the fact that we are Israel, there is opened up a vast field of Biblical knowledge upon which many eminent scholars have bestowed years of careful study and painstaking research. There is presented, for our enlightenment, a great volume of information, involving the origin and history of the various races of the earth, the divine plan for the ages, the division of the world into the Israel and Gentile nations, the marvelous covenants made by God, the exceeding broad sweep of the atonement, the place allotted the Church in God's world program, the meaning and movement of the present world crisis, who constitute the Kingdom of God on earth, what it will be when it comes, Israel's work for the new age, the new order under the reign of Christ and the ultimate restitution of all things which were lost in Eden.
 
@@ -77,7 +82,7 @@ It made a great difference to the scholars who dug deep into the Bible and human
 What a difference exists between the mental and spiritual appetite of the evader of truth and that of the prophet Jeremiah when he said:
 
 > "Thy words were found, and I did eat them; and thy word was unto me the joy and the rejoicing of mine heart, for I am called by thy name, 0 Lord God of Hosts!"
->  
+>
 >  ### DISPARAGES THE WISDOM OF GOD
 
 God, in His wisdom, chose Israel to be used by Him in His great plan for the transformation of a lost world. He also wrote a large portion of the Bible to tell us about Israel's part in that plan. Can we not see that to select only a portion of the Book, and that only the portion which pertains to one's individual salvation, is to simply tell God that He was silly in furnishing any more? Can we not see that it sets up the finite in judgment of the Infinite? It practically declares Him to be foolish in doing any more or revealing any more than would get us saved eternally.
@@ -204,7 +209,7 @@ His conversion to this great truth was occasioned by a Jew who owned a haberdash
 
 Indebted to the Jewish merchant for his graciousness, Dr. McGaw took this opportunity to speak to the man concerning the claims of Jesus Christ. One approach after another failed. So finally in a final desperate attempt to win the man before the train arrived, Dr. McGaw said, _"The Jews are God's chosen people, and Jesus was a Jew, therefore you ought to accept Him as your own personal Saviour."_
 
-_''Ah, ah,"_ said the Jew, _"this is where you are mistaken."_
+"Ah, ah," said the Jew, _"this is where you are mistaken."_
 
 Taken back by this retort the doctor said,_"Well if the Jews are not the chosen people, I'd like to know who are."_ The Jew answered, _"If you really want to know who the chosen people are, read **Judah's Sceptre and Joseph's Birthright,**_ by Bishop Allen." Dr. McGaw gulped for breath at this sudden turn of events, which blasted all his theological training. So he determined to get the book and read it. It was almost a year before he was able to secure a copy. Then in the quietness of his room, the first night with the book and his Greek and Hebrew text beside him, he became so intrigued with its message that he could not lay it down until he was suddenly confronted with the breaking rays of the morning sunrise. As the sun arose he finished the book with the light of a new truth in his soul.
 
