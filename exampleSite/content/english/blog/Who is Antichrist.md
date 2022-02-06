@@ -48,10 +48,8 @@ Never once in the above five references to antichrist did John refer to: 1) "The
 
 John did refer to antichrist as:
 
-a spirit (I John 4:3);
-a denial of the incarnation of God in Christ (I John 4:2);
-already present in his day (I John 2:18; 4:3)
-liars who denied that Jesus is the Christ (I John 2:22);
-deceivers (II John 7);
-there were many who were antichrist (I John 2:18);
-false believers who left the fellowship (I John 2:19).
+1. a spirit (I John 4:3);
+2. a denial of the incarnation of God in Christ (I John 4:2);  
+3. already present in his day (I John 2:18; 4:3) liars who denied that Jesus is the Christ (I John 2:22); 
+4. deceivers (II John 7); there were many who were Antichrist (I John 2:18); 
+5. false believers who left the fellowship (I John 2:19).
