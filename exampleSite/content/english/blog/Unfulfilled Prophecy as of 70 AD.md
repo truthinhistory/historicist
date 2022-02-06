@@ -1,14 +1,22 @@
 ---
 title: Unfulfilled Prophecy as of 70 AD
-description: meta description
+description: Roman soldiers manning a siege engine for an attack
 images:
-- images/post/03.jpg
+- "/images/roman_siege.jpg"
 date: 
 author: Historicist
 tags:
+- Pegan
+- Rome
+- Kingdom
+- Heaven
+- Revelation
+- Horns
+- Beast
+- Daniel
 - Guinness
 categories:
-- LifeStyle
+- Preterism
 
 ---
 According to Preterism, all prophecy given must have found fulfillment during the period between its origin and 70 AD, and some Preterists extend that to the fall of Pagan Rome in 410 AD.
