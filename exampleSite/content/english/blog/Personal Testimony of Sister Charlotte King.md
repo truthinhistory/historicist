@@ -1,15 +1,18 @@
 ---
-title: "Personal Testimony of Sister Charlotte King"
-description: "meta description"
+title: Personal Testimony of Sister Charlotte King
+description: Sister Charlotte King was a nun in the Roman Catholic Church living in
+  a convent.
 images:
-  - "images/post/03.jpg"
-date: 2021-01-25T11:33:57+06:00
-author: "Lubana Era"
-tags: ["Alarm", "Clock"]
-categories: ["LifeStyle"]
-draft: false
----
+- images/post/03.jpg
+date: 
+author: Charlotte King
+tags:
+- Alarm
+- Clock
+categories:
+- LifeStyle
 
+---
 Sister Charlotte King reveals her personal testimony of her life becoming a nun in the Roman Catholic Church and living in a convent.
  
 Audio Clip 01
@@ -29,4 +32,4 @@ Audio Clip 14
 Audio Clip 15
 Audio Clip 16
 Audio Clip 17
-Audio Clip 18 
+Audio Clip 18
