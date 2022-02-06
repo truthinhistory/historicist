@@ -3,33 +3,17 @@ title: Personal Testimony of Sister Charlotte King
 description: Sister Charlotte King was a nun in the Roman Catholic Church living in
   a convent.
 images:
-- images/post/03.jpg
+- "/images/sister_charlotte.jpg"
 date: 
 author: Charlotte King
 tags:
-- Alarm
-- Clock
-categories:
-- LifeStyle
+- Rome
+- Convent
+- Nun
+- Catholic
+categories: []
 
 ---
 Sister Charlotte King reveals her personal testimony of her life becoming a nun in the Roman Catholic Church and living in a convent.
  
-Audio Clip 01
-Audio Clip 02
-Audio Clip 03
-Audio Clip 04
-Audio Clip 05
-Audio Clip 06
-Audio Clip 07
-Audio Clip 08
-Audio Clip 09
-Audio Clip 10
-Audio Clip 11
-Audio Clip 12
-Audio Clip 13
-Audio Clip 14
-Audio Clip 15
-Audio Clip 16
-Audio Clip 17
-Audio Clip 18
+<iframe width="100%" height="600" scrolling="no" frameborder="no" allow="autoplay" src="[https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1391154019&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true](https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1391154019&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1391154019&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true")"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="[https://soundcloud.com/truth-in-history](https://soundcloud.com/truth-in-history "https://soundcloud.com/truth-in-history")" title="Truth in History" target="_blank" style="color: #cccccc; text-decoration: none;">Truth in History</a> · <a href="[https://soundcloud.com/truth-in-history/sets/sister-charlottes-testimony](https://soundcloud.com/truth-in-history/sets/sister-charlottes-testimony "https://soundcloud.com/truth-in-history/sets/sister-charlottes-testimony")" title="Sister Charlotte&#x27;s Testimony" target="_blank" style="color: #cccccc; text-decoration: none;">Sister Charlotte&#x27;s Testimony</a></div>
