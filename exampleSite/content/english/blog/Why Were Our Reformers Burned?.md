@@ -1,15 +1,17 @@
 ---
-title: "Why Were Our Reformers Burned?"
-description: meta description
+title: Why Were Our Reformers Burned?
+description: Preparations to burn the body of William Tyndale. John Foxe's Book of
+  Martyrs.
 images:
-- images/post/03.jpg
-date: 2021-01-25T11:33:57.000+06:00
-author: Lubana Era
+- "/images/tyndale_burned.jpg"
+date: 2022-02-05T00:00:00-06:00
+author: Historicist
 tags:
-- Alarm
-- Clock
+- Salvation
+- Reformation
+- Rome
 categories:
-- LifeStyle
+- Protestant Reformation
 
 ---
 ### THE DUTY OF ALL CHRISTIANS
