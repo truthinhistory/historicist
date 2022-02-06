@@ -9,20 +9,18 @@ categories: []
 
 ---
 1. The LORD said unto my Lord, **Sit** thou at my right hand, **until** I make thine enemies thy footstool.
-
 2. The LORD shall send the rod of thy strength out of Zion: **rule thou in the midst of thine enemies**.
-
-3. **Thy peopleshall bewilling in the day of thy power**... **Psalm 110**
+3. **Thy people shall be willing in the day of thy power**... **Psalm 110**
 
 What I am going to share with you in this article, I have shared with many Christians who thought they understood bible prophecy. From so called Doctors of Theology to the simply inquisitive, they all recoiled in what the prophets called “astonishment”! Their Christ-returning-any-day concepts were shattered.
 
 Now, before I proceed:
 
->And when he had spoken these things, while they beheld, he was taken up; and a cloud received him out of their sight.
+> And when he had spoken these things, while they beheld, he was taken up; and a cloud received him out of their sight.
 
->And while they looked stedfastly toward heaven as he went up, behold, two men stood by them in white apparel;
+> And while they looked stedfastly toward heaven as he went up, behold, two men stood by them in white apparel;
 
->Which also said, Ye men of Galilee, why stand ye gazing up into heaven? this same Jesus, which is taken up from you into heaven, shall so come in like manner as ye have seen him go into heaven. **Acts 1**
+> Which also said, Ye men of Galilee, why stand ye gazing up into heaven? this same Jesus, which is taken up from you into heaven, shall so come in like manner as ye have seen him go into heaven. **Acts 1**
 
 This proclamation of the angels, I do believe! As a matter of fact, in the new Jerusalem of _Revelation_ chapter 21, it states: “God himself shall be with them, and be their God.” Vs.3b. The God who will walk amongst us, on this earth, is Jesus.
 
@@ -34,9 +32,9 @@ Now before we look at several affirmations of this prophecy in the New Testament
 
 Hey, just a fun and holy fact of scripture: Remember, Christ is the head of His body, the church. We have the feet. You mean that these hostile enemies will be our foot stool?
 
->He shall subdue the people under **_us_**, and the nations under **_our_** feet. **Psalm 47**
+> He shall subdue the people under **_us_**, and the nations under **_our_** feet. **Psalm 47**
 
->And the God of peace shall bruise Satan under **_your_** feet shortly. The grace of our Lord Jesus Christ _be_ with you. Amen. **Romans 16**
+> And the God of peace shall bruise Satan under **_your_** feet shortly. The grace of our Lord Jesus Christ _be_ with you. Amen. **Romans 16**
 
 Hang in there. I’m just getting warmed up!
 
@@ -44,19 +42,19 @@ Our first witness as to the importance of David’s prophecy will be our Lord Je
 
 **35** And Jesus answered and said, while he taught in the temple, How say the scribes that Christ is the Son of David?
 
->For David himself said by the Holy Ghost, The LORD said to my Lord, Sit thou on my right hand, till I make thine enemies thy footstool.
+> For David himself said by the Holy Ghost, The LORD said to my Lord, Sit thou on my right hand, till I make thine enemies thy footstool.
 
->David therefore himself calleth him Lord; and whence is he _then_ his son? And the common people heard him gladly. **Mark 12**
+> David therefore himself calleth him Lord; and whence is he _then_ his son? And the common people heard him gladly. **Mark 12**
 
 Christ’s vindication of this prophecy, relating to His future glory, is probably why the apostles were so adamant when quoting it on multiple occasions. The common people heard the Lord gladly. So be it again that soon the common people will hear the truth of this and gladly perceive its relevance in understanding the growth principle of the kingdom of God!
 
 Now we turn to the apostles. Guess what is proclaimed by Peter at the opening volley of the New Testament church on the day of Pentecost?
 
->Therefore being by the right hand of God exalted, and having received of the Father the promise of the Holy Ghost, he hath shed forth this, which ye now see and hear.
+> Therefore being by the right hand of God exalted, and having received of the Father the promise of the Holy Ghost, he hath shed forth this, which ye now see and hear.
 
->For David is not ascended into the heavens: but he saith himself, The LORD said unto my Lord, Sit thou on my right hand, Until I make thy foes thy footstool
+> For David is not ascended into the heavens: but he saith himself, The LORD said unto my Lord, Sit thou on my right hand, Until I make thy foes thy footstool
 
->Therefore let all the house of Israel know assuredly, that God hath made that same Jesus, whom ye have crucified, both Lord and Christ.
+> Therefore let all the house of Israel know assuredly, that God hath made that same Jesus, whom ye have crucified, both Lord and Christ.
 
 ### Acts 2
 
