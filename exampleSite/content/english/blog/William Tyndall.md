@@ -8,11 +8,12 @@ images:
 date: 2021-01-25T11:33:57.000+06:00
 author: Historicist
 tags:
-- new testament
-- bible
-- tyndale
-- reformation
-categories: []
+- New Testament
+- Bible
+- Tyndale
+- Reformation
+categories:
+- Protestant Reformation
 
 ---
 William Tyndale was the Captain of the Army of Reformers, and was their spiritual leader. Tyndale holds the distinction of being the first man to ever print the New Testament in the English language. Tyndale was a true scholar and a genius, so fluent in eight languages that it was said one would think any one of them to be his native tongue. He is frequently referred to as the “Architect of the English Language”, (even more so than William Shakespeare) as so many of the phrases Tyndale coined are still in our language today.
