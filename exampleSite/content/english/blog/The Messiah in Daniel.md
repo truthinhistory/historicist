@@ -1,15 +1,21 @@
 ---
 title: The Messiah in Daniel
-description: meta description
+description: Statue of Angel Gabriel, Balzan
 images:
-- images/post/03.jpg
-date: 2021-01-25T11:33:57.000+06:00
-author: Lubana Era
+- "/images/angel_gabriel.jpg"
+date: 2022-02-06T00:00:00-06:00
+author: Historicist
 tags:
-- Alarm
-- Clock
+- Prophets
+- God
+- Sin
+- Israel
+- Daniel
+- Angel
+- Gabriel
+- Messiah
 categories:
-- LifeStyle
+- Prophecy
 
 ---
 Chapter 9 starts with Daniel reading from the book of Jeremiah where he learns that the Jews' 70 years of captivity in Babylon are almost over.
