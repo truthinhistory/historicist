@@ -28,7 +28,7 @@ Verse 24— Gabriel tells Daniel that the next thing God has planned for the Jew
 
 It will take 70 prophetic weeks to complete and most Bible scholars agree that the 70 weeks are measured according to God's time, which is a year for a day.
 
-_"After the number of days in which ye searched out the land, even 40 days, each day for a year, shall ye bear your iniquities, even 40 years and ye shall know my breach of promise." (Numbers 14:34) (Ezekiel 4:6)_
+>"After the number of days in which ye searched out the land, even 40 days, each day for a year, shall ye bear your iniquities, even 40 years and ye shall know my breach of promise." (Numbers 14:34) (Ezekiel 4:6)
 
 When God determines time in prophecy he calls a day a year.
 
