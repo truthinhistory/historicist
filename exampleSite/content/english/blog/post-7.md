@@ -9,6 +9,7 @@ tags:
 - Photography
 categories:
 - Photography
+draft: true
 
 ---
 Photography is an invaluable medium that allows us to capture the incandescent beauty of the outside world, something many of us haven’t seen in... well, a hot minute. Global pandemics will do that.
