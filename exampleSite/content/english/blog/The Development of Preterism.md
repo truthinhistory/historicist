@@ -2,7 +2,7 @@
 title: The Development of Preterism
 images:
 - "/images/constantine_the_great.jpg"
-date: 2021-01-24T18:19:25.000+06:00
+date: 2022-02-06T00:00:00-06:00
 author: Robert Caringola
 tags:
 - Preterism
