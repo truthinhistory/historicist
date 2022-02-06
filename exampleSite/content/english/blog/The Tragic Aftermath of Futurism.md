@@ -36,22 +36,22 @@ Futurism is that distinctive religious interpretation of Bible prophecy, alleged
 
 In order to properly understand the historical development of Futurism, one must first have a general knowledge of the religious climate of the times in which the Roman Catholic Church was most dominant in Europe. Many Bible students of the 13th and 14th centuries accepted the "Historicist" interpretation of prophecy. This included many teachers who were loyal to the Church of Rome. Many of that time who adhered to the Historicist school of thought taught that the Beast of Revelation was a symbol of the Roman Papacy. It was this interpretation that was later adopted by the Reformation fathers of the 14th to 16th centuries. This list includes such worthies as:
 
-**John Wycliff 1329-1384 - The "Morning Star of the Reformation"**
-*		John Knox 1514-1572 - Scottish Presbyterian Reformer*
-*		William Tyndale 1494-1536- Reformer, Bible translator, martyr*
-*		Martin Luther 1483-1546 - German Reformer*
-*		John Calvin 1509-1536 - French theologian and Reformer*
-*		Ulrich Zwingli 1484-1531 - Swiss Reformer*
-*		Philip Melanchthon 1497-1560 - wrote the Augsburg Confession*
-*		Sir Isaac Newton 1642-1727 English Scientist and Bible Scholar*
-*		John Huss 1373-1415 - Bohemian Reformer*
-*		John Foxe 1516-1587 - wrote "Foxe's Book of Martyrs"*
-*		John Wesley 1703-1791 - Father of Methodism*
-*		Jonathan Edwards 1703-1758 - Pastor,"First Great Awakening"*
-*		George Whitefield 1714-1770 English Evangelist*
-*		Charles G. Finney 1792-1875 American Evangelist*
-*		Charles H. Spurgeon 1834-1892 - English Baptist Pastor*
-*		Matthew Henry 1662-1714 - Welsh Bible Scholar*
+John Wycliff 1329-1384 - The "Morning Star of the Reformation"**
+John Knox 1514-1572 - Scottish Presbyterian Reformer*
+William Tyndale 1494-1536- Reformer, Bible translator, martyr*
+Martin Luther 1483-1546 - German Reformer*
+John Calvin 1509-1536 - French theologian and Reformer*
+Ulrich Zwingli 1484-1531 - Swiss Reformer*
+Philip Melanchthon 1497-1560 - wrote the Augsburg Confession*
+Sir Isaac Newton 1642-1727 English Scientist and Bible Scholar*
+John Huss 1373-1415 - Bohemian Reformer*
+John Foxe 1516-1587 - wrote "Foxe's Book of Martyrs"*
+John Wesley 1703-1791 - Father of Methodism*
+Jonathan Edwards 1703-1758 - Pastor,"First Great Awakening"*
+George Whitefield 1714-1770 English Evangelist*
+Charles G. Finney 1792-1875 American Evangelist*
+Charles H. Spurgeon 1834-1892 - English Baptist Pastor*
+Matthew Henry 1662-1714 - Welsh Bible Scholar*
 
 The above names are far from being a complete list of great Bible scholars, pastors and evangelists who believed the Historicist approach to prophecy with some lasting through the 19th century and well into the 20th century. The advocates of Historicism view the seventy weeks of Daniel as being completely fulfilled in the old Judah nation and ending in A.D. 34. It also views the Book of Revelation as portraying a survey of the overall history of the Christian Church. It would include the major events of European history including the Roman Empire, Papal Rome, the rise of Mohammedanism, the Protestant Reformation, the development of Christian Western Civilization and the future consummation of God's plan of the ages in the city of New Jerusalem of Revelation 21-22.
 
@@ -63,11 +63,10 @@ With the brutality and iniquity of the Papacy being exposed for so long through 
 
 In 1826, the Librarian to the Archbishop of Canterbury, S.R. Maitland discovered Francisco Ribera's writings and published them. This theory of the postponement of the antichirst and the tribulation period into the future had already been taught for 250 years by the Jesuits. To add fuel to the fire of Futurism, another Jesuit named Emanuel Lacunza published his book entitled, "The Coming of the Messiah in Glory and Majesty" in 1816. Lacunza, along with other fellow Jesuits, had been expelled from Chile for their encouragement of treachery and violence. He wrote his book under the name of "Rabbi Ben Ezra," a supposedly converted Jew. He added a prayer asking the Almighty to use his book for the enlightenment of the Jewish people. Lacunza set forth the theory that Jesus was to have a future two stage coming; once for His saints and then with His saints at a later date. The ultimate result of the writings of Ribera and Lacunza were that:
 
-	1	the events of Revelation 4:1 and following were to take place in the future;
-    
-	2	the appearance of the Antichrist and the two witnesses and relative prophecies also in the future;
-	3	all these prophetic events are scheduled to transpire in a very short space of seven years between the first and second comings of Jesus;
-	4	the rapture of the church is to take place as a future event which will be the starting point for all the other events to follow.
+1. the events of Revelation 4:1 and following were to take place in the future;  
+2. the appearance of the Antichrist and the two witnesses and relative prophecies also in the future;
+3. all these prophetic events are scheduled to transpire in a very short space of seven years between the first and second comings of Jesus;
+4. the rapture of the church is to take place as a future event which will be the starting point for all the other events to follow.
     
 Lacunza's book came into the hands of Edward Irving, a young and brilliant Scottish Presbyterian minister during the 1820's. He accepted the task of translation of this devious theory from Spanish into English. Irving was aware of the true identity of Lacunza as being a Spanish Jesuit and not a converted Jewish Rabbi. Still, he continued to translate and publish a theory that would turn out to be one of the most detrimental misconceptions of Scripture in the 2,000 year history of the Christian Church. When he published his English version in London in 1827, he claimed he heard a voice telling him to preach a secret rapture of the church with the two-stage theory of Christ's future comings.
 
@@ -91,42 +90,43 @@ Paul the Apostle records in II Corinthians 12:1-6 that he "knew a man in Christ 
 
 Matthew 24:36-42
 
-" But of that day and hour knoweth no man, no, not the angels of heaven, but my Father only. But as the days of Noe were, so shall also the coming of the Son of man be. For as in the days that were before the flood they were eating and drinking, marrying and giving in marriage, until the day that Noe entered into the ark, And knew not until the flood came, and took them all away; so shall also the coming of the Son of man be. Then shall two be in the field; the one shall be taken, and the other left. Two women shall be grinding at the mill; the one shall be taken, and the other left. Watch therefore: for ye know not what hour your Lord doth come."
+>"But of that day and hour knoweth no man, no, not the angels of heaven, but my Father only. But as the days of Noe were, so shall also the coming of the Son of man be. For as in the days that were before the flood they were eating and drinking, marrying and giving in marriage, until the day that Noe entered into the ark, And knew not until the flood came, and took them all away; so shall also the coming of the Son of man be. Then shall two be in the field; the one shall be taken, and the other left. Two women shall be grinding at the mill; the one shall be taken, and the other left. Watch therefore: for ye know not what hour your Lord doth come."
 
 The phrase, "the one shall be taken and the other left" has been widely used to mean that the saints are "taken" in the rapture and the wicked are left behind to endure the horrors of the tribulation. When any elementary Bible student reads the text concerning the days of Noah in verses 37-39, it is evident which ones are taken. It is not the righteous ones, Noah and his family, that were taken away in the flood. For sure, Jesus Christ is coming again. When He returns it is not the righteous that He is going to remove, but the wicked. Our Lord's lesson of the removal of the wicked first is very evident in the parable of the wheat and the tares in Matthew 13:24-30, 36-43. Jesus said that during the harvest at the end of the age the angels shall first gather the tares out of His kingdom and burn them. Then the righteous shall shine forth in the Kingdom of their Father. Paul the Apostle wrote to the Thessalonian saints and set the record straight when he said;
 
-"And to you who are troubled rest with us, when the Lord Jesus shall be revealed from heaven with his mighty angels, In flaming fire taking vengeance on them that know not God, and that obey not the gospel of our Lord Jesus Christ: Who shall be punished with everlasting destruction from the presence of the Lord, and from the glory of his power;
+>"And to you who are troubled rest with us, when the Lord Jesus shall be revealed from heaven with his mighty angels, In flaming fire taking vengeance on them that know not God, and that obey not the gospel of our Lord Jesus Christ: Who shall be punished with everlasting destruction from the presence of the Lord, and from the glory of his power;
 
-When he shall come to be glorified in his saints, and to be admired in all them that believe (because our testimony among you was believed) in that day."
+>When he shall come to be glorified in his saints, and to be admired in all them that believe (because our testimony among you was believed) in that day."
 
 II Thessalonians 1:7-10
 
 I Thessalonians 5:9
 
-"For God hath not appointed us to wrath, but to obtain salvation by our Lord Jesus Christ."
+>"For God hath not appointed us to wrath, but to obtain salvation by our Lord Jesus Christ."
 
 I once asked a professor of Dispensational Futurism for proof of the pre-trib rapture theory. The professor was a genuine born-again believer, highly educated with more than one doctorate degree and very qualified in his field of study. He was setting forth the party-line of pre-tribulation rapture. My question was; "Doctor, what concrete biblical evidence is there for believing that the Christians will be raptured away before the tribulation to avoid the wrath of God that is poured out during that time?" With a puzzled look on his face, and contemplating a minute concerning his answer, he said, "The only real evidence I can think of is, 'God hath not appointed us to wrath.'"
 
 Ever since that day I have wondered how does that apply to the thousands of first- century saints who became martyrs to whom that admonition was written. How does that fit with the sixty million Christians martyred under the heavy hand of Papal Rome, the multiplied thousands of saints who were murdered under the dictates of Josef Stalin or the untold number of believers who died without mercy during the communist takeover of China in 1948. Several years ago an interview with Corrie Ten Boom was recorded where she stated that during World War II when Northern Europe was being overrun by invading military forces and Christians brutalized, that many Christians ran to their pastors and asked them, "Where is the Rapture?" The pastors had no answer and the saints had been living with a false hope.
 
 When these facts are pointed out to a rapturist teacher, their immediate rebuttal is; "Well, that means Christians sometimes suffer the wrath of man, but not the wrath of God and the tribulation is God's wrath and not man's." Yet these same rapture teachers tell us that during the tribulation the Antichrist will have complete control and kill those who "have the testimony of Jesus Christ." What about the souls under the altar crying for vengeance in Revelation 6:9-11?
+
 What about the saints "which came out of great tribulation" in Revelation 7:9-17? Surely, they endured the wrath of man during the time when the pre-tribulation rapturist declare that this will be a time of the wrath of God. Under close scrutiny of logic and the searchlight of the Scriptures, the pre-trib rapture theory and all its props simply are washed away like a sand castle during high tide.
 
 I Thessalonians 4:13-18
 
-"But I would not have you to be ignorant, brethren, concerning them which are asleep, that ye sorrow not, even as others which have no hope. For if we believe that Jesus died and rose again, even so them also which sleep in Jesus will God bring with him. For this we say unto you by the word of the Lord, that we which are alive and remain unto the coming of the Lord shall not prevent them which are asleep. For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first: Then we which are alive and remain shall be caught up together with them in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord."
+>"But I would not have you to be ignorant, brethren, concerning them which are asleep, that ye sorrow not, even as others which have no hope. For if we believe that Jesus died and rose again, even so them also which sleep in Jesus will God bring with him. For this we say unto you by the word of the Lord, that we which are alive and remain unto the coming of the Lord shall not prevent them which are asleep. For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first: Then we which are alive and remain shall be caught up together with them in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord."
 
 From this and other Scriptural passages it is evident the Bible teaches that Jesus Christ is coming again. When He descends, He comes to remain on the earth and remove out of His kingdom that which offends and works iniquity (Matt. 13:41). The angel Gabriel told Mary that her son Jesus, shall be given the throne of His father David and He shall reign over the House of Jacob forever (Luke 1:31-33). This definitely sounds like He will be reigning here on the earth forever. Even Jesus taught His disciples to pray, "Thy kingdom come, Thy will be done in earth as it is in heaven."(Matt. 6:9-10). Paul the Apostle wrote words of comforting expectation to Titus when he said "Looking for that blessed hope, and the glorious appearing of the great God and our Savior Jesus Christ" (Titus 2:13).
 
 When Paul wrote to the saints at Thessalonica, he was addressing one of their major concerns. That was, the state of the righteous dead. He then assures the living saints that their Christian loved ones will not be forgotten by the Lord when He comes again. Their bodies will be resurrected as he stated in I Cor. 15:15-57. The Apostle declares that when Jesus returns He will bring the spirits of all the sleeping saints with Him. In verses 15-17 he reassures the hope of the living saints by saying that:
 
-1	The resurrection of the living saints will not prevent (the old English word for 'precede') or take place before the resurrection of the sleeping saints.
+1. The resurrection of the living saints will not prevent (the old English word for 'precede') or take place before the resurrection of the sleeping saints.
 
-2	The Lord Himself shall descend from heaven with a very loud arrival announcement - a shout, the voice of the archangel and the trump of God. There will be nothing secret or quiet about His arrival (see II Thess. 1:7-8, Matt. 24:31). Where is the 'secret rapture' mentioned in this verse where family members will quietly disappear without notice?
+2. The Lord Himself shall descend from heaven with a very loud arrival announcement - a shout, the voice of the archangel and the trump of God. There will be nothing secret or quiet about His arrival (see II Thess. 1:7-8, Matt. 24:31). Where is the 'secret rapture' mentioned in this verse where family members will quietly disappear without notice?
 
-3	Then the bodies of the living saints at Jesus' coming shall be changed (I Cor.15:51-54) into an incorruptible body and they shall possess a glorified body like unto their Lord.
+3. Then the bodies of the living saints at Jesus' coming shall be changed (I Cor.15:51-54) into an incorruptible body and they shall possess a glorified body like unto their Lord.
 
-4	This latter group of living saints shall then be 'caught up' or removed from their present state of being to join the former group of 'sleeping' saints. 
+4. This latter group of living saints shall then be 'caught up' or removed from their present state of being to join the former group of 'sleeping' saints. 
 
 The Lord Jesus is not returning alone. Jude says that "Behold the Lord cometh with ten thousands of His saints" (Jude 14). This vast company of saints is what comprises the 'clouds' of I Thess. 4:17. The 'living' saints shall join this vast 'cloud of witnesses' (Heb. 12:1) while meeting the Lord 'in the air'. The writer of Hebrews clearly applies the 'cloud' of witnesses to the people that he listed in chapter eleven. "In the air" denotes the location of the state of elevated and spiritual union with the 'sleeping' saints and with the Lord Jesus. This Scriptural passage which is used as the main stronghold of the rapturists says absolutely nothing about flying away to another planet called heaven. If there is a 'rapture' to any degree at all, the saints will only go up as far as the air extends. 'Air' is the elastic and invisible mixture of several gases (nitrogen, oxygen, hydrogen, etc) that surrounds the earth. This is the atmosphere of space above the earth's surface. How far up from the earth's surface does the air extend? Then that would be the extent of their distance of travel. It would be less than seven miles.
 
@@ -172,19 +172,19 @@ II John 1:7
 
 Here again John is warning the believers to beware of the many deceivers that existed in his day. These false teachers were considered deceivers and antichrist. Never once in the above five references to antichrist did John refer to:
 
-**1	"The" Antichrist;**
-*	2	one individual man;*
-*	3	or a future appearance.*
+1. "The" Antichrist;
+2. one individual man;
+3. or a future appearance.
 
 John did refer to antichrist as being:
 
-1	a spirit - 4:3;
-	2	a denial of the incarnation of God in Christ - 4:2;
-	3	already present in his day - 2:18; 4:3
-	4	Liars who denied that Jesus is the Christ - 2:22;
-	5	deceivers - II John 1:7;
-	6	there were many who were antichrist - 2:18;
-	7	false believers who left the fellowship - 2:19.
+1. a spirit - 4:3;
+2. a denial of the incarnation of God in Christ - 4:2;
+3. already present in his day - 2:18; 4:3
+4. Liars who denied that Jesus is the Christ - 2:22;
+5. deceivers - II John 1:7;
+6. there were many who were antichrist - 2:18;
+7. false believers who left the fellowship - 2:19.
 
 ### Seventy Weeks of Daniel
 
@@ -198,20 +198,20 @@ The writer of the Book of Hebrews repeats Jeremiah's prophecy and clearly applie
 
 The angelic messenger plainly stated the six-fold purpose of this seventy weeks or 490 year period. The Messianic purpose was:
 
-	1	to finish the transgression - Isaiah 53:5, Hebrews 10:12-14
-	2	to make an end of sins - Hebrews 9:26
-	3	to make reconciliation for iniquity - Rom. 5:10, Heb. 10:17
-	4	to bring in everlasting righteousness - II Corinthians 5:21
-	5	to seal up the vision and prophecy - Matthew 5:17
-	6	to anoint the Most Holy - Luke 4:18; Acts 10:38
+1. to finish the transgression - Isaiah 53:5, Hebrews 10:12-14
+2. to make an end of sins - Hebrews 9:26
+3. to make reconciliation for iniquity - Rom. 5:10, Heb. 10:17
+4. to bring in everlasting righteousness - II Corinthians 5:21
+5. to seal up the vision and prophecy - Matthew 5:17
+6. to anoint the Most Holy - Luke 4:18; Acts 10:38
     
 The anointing of the Most Holy refers to Jesus Christ when He was anointed at His water baptism which marked the beginning of the seventieth week of Daniel. In Mark 1:15 Jesus said, "The time is fulfilled. . ." referring to the beginning of His public ministry and His work of redemption on the cross for His people. In the middle of the seventieth week the Messiah (Jesus Christ) was 'cut off' or crucified (Daniel 9:26-27). At His crucifixion Jesus caused the Levitical sacrifices to cease and made reconciliation for our sins (Daniel 9:24, 27). Through Biblical exegesis and a basic understanding of history, it is very evident that all seventy weeks were completely fulfilled. No where in this prophecy does it make reference to:
 
-	1	a one-man Antichrist;
-	2	a rebuilt temple in Jerusalem;
-	3	"the" Antichrist making a covenant with the Jews;
-	4	"the" Antichrist breaking a covenant;
-	5	the 70th week of Daniel being separated from the 69th week with a 'gap' of 2000 years.
+1. a one-man Antichrist;
+2. a rebuilt temple in Jerusalem;
+3. "the" Antichrist making a covenant with the Jews;
+4. "the" Antichrist breaking a covenant;
+5. the 70th week of Daniel being separated from the 69th week with a 'gap' of 2000 years.
     
 ### The Two Witnesses
 
