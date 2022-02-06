@@ -36,9 +36,9 @@ As for the scoffers, multitudes have come to scoff and remained to pray.
 There is a great host of conscientious Christians who desire to know the truth but are afflicted with the spiritual blindness described by Paul in Romans 11:25:
   
 >"For I would not, brethren, that ye should be ignorant of this mystery, lest ye should be wise in your own conceits; that blindness in part is happened unto Israel, until the fulness of the Gentiles be come in."
-  
+
 Regarding the Jews, Paul said:
- 
+
 >"Their minds were blinded: for until this day remaineth the veil untaken away in the reading of the Old Testament, which veil is done away in Christ. But even unto this day when Moses is dead, the veil is upon their heart. Nevertheless when they shall turn to the Lord, the veil shall be taken away."
 
 But the blindness in Ten Tribed Israel in reading Moses and the Old Testament, Paul says, was to continue _"until the fulness of the Gentiles be come in."_ The _"Times of the Gentiles"_ closed when General Allenby took Jerusalemin 1917. The _"Fulness of the Gentiles"_ is manifest in the enormity of human perfidy now being displayed by the dictator nations as their cup of iniquity rapidly fills to the brim. - (Joel 3:13) The hour is close at hand, when Ten Tribed Israel will experience the great awakening foretold by the prophets. The blindness will pass away in the spiritual light which shall break upon their souls regarding their identity and their responsibilities as the chosen people of God. Multitudes in our own and many other lands are already awake and taking their places among the cohorts of the Almighty for the closing days of the age. In presenting the Israel Truth, it is therefore wise to heed the admonition of Paul to Timothy:
