@@ -1,7 +1,8 @@
 ---
 title: Father of the English Bible
-description: meta description
-images: []
+description: Bluestone memorial for William Tyndale, Mechelsesteenweg, 1800 Vilvoorde
+images:
+- "/images/tyndale_monument.jpg"
 date: 2022-02-07T00:00:00-06:00
 author: Admin
 tags:
