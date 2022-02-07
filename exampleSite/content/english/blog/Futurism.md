@@ -1,11 +1,14 @@
 ---
 title: Futurism
-description: meta description
-images: []
-date: 
+description: New Jerusalem
+images:
+- "/images/new_jerusalem.jpg"
+date: 2022-02-07T00:00:00-06:00
 author: Admin
-tags: []
-categories: []
+tags:
+- Temple
+categories:
+- 'Historicism '
 
 ---
 ### The Jewish Temple - Will it be Rebuilt?
