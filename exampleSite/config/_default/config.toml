@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://www.historicist.com/"
 disableLanguages = ["fr"]
 disqusShortname = ""
 googleAnalytics = "UA-219336890-1"
