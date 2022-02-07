@@ -8,7 +8,7 @@ author: Admin
 tags:
 - Temple
 categories:
-- 'Historicism '
+- 'Futurism '
 
 ---
 ### The Jewish Temple - Will it be Rebuilt?
