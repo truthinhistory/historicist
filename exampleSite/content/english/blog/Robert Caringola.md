@@ -6,7 +6,7 @@ images:
 date: 2021-01-25T11:33:57.000+06:00
 author: Robert Caringola
 tags:
-- seventyweeks
+- Seventy Weeks
 categories:
 - 'Historicism '
 
