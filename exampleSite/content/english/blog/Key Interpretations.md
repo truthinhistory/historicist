@@ -1,18 +1,18 @@
 ---
 title: Key Interpretations
-description: meta description
-images: []
+description: The Institute for Social Research, Frankfurt, Germany
+images:
+- "/images/institute_for_social_research.jpg"
 date: 2022-02-06T00:00:00-06:00
 author: Charles A. Jennings
 tags:
-- Alarm
-- Clock
+- Jesus Christ
+- History
 categories:
+- Prophecy
 - LifeStyle
 
 ---
-### Jesus Christ is the Focal Point
-
 ### The Cross of Jesus Christ is the Focal Point of all Human History and is That Which Gives Meaning to Man's Existence
 
 The definition of the word HISTORY is "an account of what has happened in the life and development of a people, country, institution, etc., usually with an analysis and explanation." Looking back through the events of time gives the informed observer insight into the all-important questions, such as the origin and gradual developments of any race, nation or people. Accurate historical accounts tells exactly what happened in past events, but it is the meaning and interpretation of those events where a difference of opinions arise. Because of these differing opinions, a number of interpretations have been set forth by historians in an effort to explain the purpose of what has taken place in the past.
