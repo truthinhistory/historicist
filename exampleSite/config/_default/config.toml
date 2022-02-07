@@ -1,7 +1,7 @@
 baseURL = "https://www.historicist.com/"
 disableLanguages = ["fr"]
 disqusShortname = ""
-googleAnalytics = ""
+googleAnalytics = "G-9WEFP4PFT4"
 hasCJKLanguage = false
 paginate = "6"
 summaryLength = "70"
