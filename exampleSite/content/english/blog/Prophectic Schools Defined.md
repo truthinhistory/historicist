@@ -1,23 +1,25 @@
 ---
 title: Prophectic Schools Defined
-description: meta description
-images: []
+description: Balfour Declaration
+images:
+- "/images/balfour_declaration.jpg"
 date: 
 author: Admin
 tags:
-- Alarm
-- Clock
+- Preterism
+- Historicism
+- Futurism
 categories:
-- LifeStyle
+- Prophecy
 
 ---
 For those who find the terms Historicism, Preterism, and Futurism ambiguous, the definitions are herein supplied:
 
-Historicism teaches that Jesus Christ's "unveiling" to the Apostle John, that comprises the Book of Revelation, renders an on-going history of the "church," or "called-out-ones," from the time of John until the Second Advent.
+**Historicism** teaches that Jesus Christ's "unveiling" to the Apostle John, that comprises the Book of Revelation, renders an on-going history of the "church," or "called-out-ones," from the time of John until the Second Advent.
 
-Preterism generally attempts to place the fulfillment of all prophecy at the fall of Jerusalem in 70 AD, yet some Preterists look at fulfillment when Pagan Rome fell in 410 AD. Most Preterists are of the Post-Millennial school and believe the "called-out-ones" will eventually, through preaching of the Gospel and power of the Holy Spirit, convert the whole world to Christianity. Because that process could take 100, 1000, or 5000 years, no miscalculations are possible.
+**Preterism** generally attempts to place the fulfillment of all prophecy at the fall of Jerusalem in 70 AD, yet some Preterists look at fulfillment when Pagan Rome fell in 410 AD. Most Preterists are of the Post-Millennial school and believe the "called-out-ones" will eventually, through preaching of the Gospel and power of the Holy Spirit, convert the whole world to Christianity. Because that process could take 100, 1000, or 5000 years, no miscalculations are possible.
 
-Futurism places events prophesied in Chapters 4 through 19 of the Book of Revelation into the future at the end of the Christian era. The term "Futurism" is often found as a part of the longer title "Dispensational, Pre-Trib Rapture, Futurist." One may use any of the individual designations to refer to the whole, which is often done. By their own words, it is evident that most Futurists are Pre-Trib Rapturists, and most Rapturists are Futurists. Both share their belief in Dispensationalism.
+**Futurism** places events prophesied in Chapters 4 through 19 of the Book of Revelation into the future at the end of the Christian era. The term "Futurism" is often found as a part of the longer title "Dispensational, Pre-Trib Rapture, Futurist." One may use any of the individual designations to refer to the whole, which is often done. By their own words, it is evident that most Futurists are Pre-Trib Rapturists, and most Rapturists are Futurists. Both share their belief in Dispensationalism.
  
 This article focuses on the prophetic question of Futurism, not on the Pre-Trib Rapture issue because many others have adequately covered that study. Mr. Dave MacPherson has done excellent work in researching that question, and his books are readily available.
 
