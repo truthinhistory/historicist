@@ -4,7 +4,7 @@ description: Painting of Luther nailing 95 theses
 images:
 - "/images/martin_luther_95_thesis.jpg"
 date: 
-author: Historicist
+author: Admin
 tags:
 - Faith
 - Prayer
