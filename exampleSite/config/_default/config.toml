@@ -1,6 +1,6 @@
 baseURL = "https://www.historicist.com/"
 disableLanguages = ["fr"]
-disqusShortname = "themefisher-template"
+disqusShortname = ""
 googleAnalytics = ""
 hasCJKLanguage = false
 paginate = "6"
