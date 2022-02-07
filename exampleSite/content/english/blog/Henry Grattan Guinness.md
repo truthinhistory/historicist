@@ -3,7 +3,7 @@ title: Henry Grattan Guinness
 description: The East London Institute (Harley House) training center for missionaries
 images:
 - "/images/east_london_institute.jpg"
-date: 
+date: 2022-02-07T00:00:00-06:00
 author: Admin
 tags:
 - Antichrist
