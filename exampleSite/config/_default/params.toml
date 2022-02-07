@@ -13,7 +13,7 @@ menu_align = "center"
 post_layout = "list"
 search = true
 sidebar = "right"
-theme_copyright = true
+theme_copyright = false
 [baidu]
 analytics_id = ""
 enable = false
