@@ -4,11 +4,11 @@ description: Saint-Pierre de Montmartre church where the vows were taken that le
   to the founding of the Society of Jesus
 images:
 - "/images/saint_pierre.jpg"
-date: 2022-02-06T00:00:00-06:00
+date: 2022-02-06T00:00:00.000-06:00
 author: Robert Caringola
 tags:
 - Protestant
-- Jesuits
+- Jesuit
 - Ribera
 categories:
 - Jesuit
