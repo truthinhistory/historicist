@@ -9,7 +9,7 @@ tags:
 - Ribera
 - Jesuit
 - Reformation
-- Guiness
+- Guinness
 - Rome
 categories:
 - Preterism
