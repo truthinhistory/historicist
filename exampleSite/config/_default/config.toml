@@ -7,7 +7,7 @@ paginate = "6"
 summaryLength = "70"
 theme = "Historicist"
 timeZone = "UTC"
-title = "Historicist biblical interpretation"
+title = "Historicist Biblical Interpretation"
 [caches.assets]
 dir = ":resourceDir/_gen"
 maxAge = "720h"
