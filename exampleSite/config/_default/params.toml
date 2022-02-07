@@ -85,10 +85,3 @@ icon = "fab fa-youtube"
 link = "#"
 title = "youtube"
 [[social]]
-icon = "fab fa-instagram"
-link = "#"
-title = "instagram"
-[[social]]
-icon = "fab fa-linkedin"
-link = "#"
-title = "linkedin"
