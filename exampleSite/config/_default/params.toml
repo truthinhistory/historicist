@@ -78,9 +78,9 @@ visitor = true
 sidebar = ["search", "categories", "tags"]
 [[social]]
 icon = "fab fa-soundcloud"
-link = "#"
+link = "https://soundcloud.com/truth-in-history"
 title = "soundcloud"
 [[social]]
 icon = "fab fa-youtube"
-link = "#"
+link = "https://www.youtube.com/channel/UCjrdGab0LFLLEVKxJM8usCg"
 title = "youtube"
