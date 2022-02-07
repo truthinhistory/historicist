@@ -81,6 +81,7 @@ icon = "fab fa-soundcloud"
 link = "https://soundcloud.com/truth-in-history"
 title = "soundcloud"
 [[social]]
+enable = true
 icon = "fab fa-youtube"
 link = "https://www.youtube.com/channel/UCjrdGab0LFLLEVKxJM8usCg"
 title = "youtube"
