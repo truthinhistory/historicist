@@ -77,13 +77,13 @@ visitor = true
 [widgets]
 sidebar = ["search", "categories", "tags"]
 [[social]]
-icon = "fab fa-facebook"
+icon = "fab fa-soundcloud"
 link = "#"
-title = "facebook"
+title = "soundcloud"
 [[social]]
-icon = "fab fa-twitter"
+icon = "fab fa-youtube"
 link = "#"
-title = "twitter"
+title = "youtube"
 [[social]]
 icon = "fab fa-instagram"
 link = "#"
