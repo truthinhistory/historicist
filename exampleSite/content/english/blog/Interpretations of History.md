@@ -1,10 +1,13 @@
 ---
 title: Interpretations of History
-description: meta description
-images: []
+description: Jesus Teaching the Elders in the Temple
+images:
+- "/images/jesus_teaching.jpg"
 date: 2022-02-06T00:00:00-06:00
 author: Charles A. Jennings
-tags: []
+tags:
+- Historicist
+- Prophecy
 categories:
 - 'Historicism '
 
