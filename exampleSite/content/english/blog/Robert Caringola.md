@@ -23,3 +23,5 @@ Audio Clip 07 The Seven Vials (59 Min)
 Audio Clip 08 The 144 Thousand (59 Min)
 Audio Clip 09 The Seven Churches (57 Min)
 Audio Clip 10 The Rapture Refutation (58 Min)
+
+{{< sc_70 >}}
