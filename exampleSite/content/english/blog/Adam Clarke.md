@@ -1,9 +1,9 @@
 ---
 title: Adam Clarke
-description: Adam Clarke was a British Methodist theologian and Biblical scholar
+description: Dr Adam Clarke and the Priests of Buddha
 images:
-- images/post/05.jpg
-date: 2021-01-25T16:56:47.000+06:00
+- "/images/adam_clarke.jpg"
+date: 2022-02-07T00:00:00-06:00
 author: V. K. VAN DE VENTER, Ph. M.
 tags:
 - Futurism
