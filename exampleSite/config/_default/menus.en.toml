@@ -42,23 +42,3 @@ name = "Tags"
 parent = "Pages"
 url = "tags/"
 weight = 2
-[[main]]
-name = "Tag Single"
-parent = "Pages"
-url = "tags/photography/"
-weight = 3
-[[main]]
-name = "Category"
-parent = "Pages"
-url = "categories/"
-weight = 4
-[[main]]
-name = "Category Single"
-parent = "Pages"
-url = "categories/lifestyle/"
-weight = 5
-[[main]]
-name = "Elements"
-parent = "Pages"
-url = "elements/"
-weight = 6
