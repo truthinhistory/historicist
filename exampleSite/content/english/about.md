@@ -18,7 +18,7 @@ social:
     icon: fab fa-linkedin-in
 what_i_do:
   title: What I Do
-  enable: true
+  enable: false
   item:
   - title: Content Writing
     icon: fas fa-pen-nib
