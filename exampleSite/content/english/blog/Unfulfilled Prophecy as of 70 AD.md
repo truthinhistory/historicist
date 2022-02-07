@@ -4,7 +4,7 @@ description: Roman soldiers manning a siege engine for an attack
 images:
 - "/images/roman_siege.jpg"
 date: 
-author: Historicist
+author: ''
 tags:
 - Pegan
 - Rome
