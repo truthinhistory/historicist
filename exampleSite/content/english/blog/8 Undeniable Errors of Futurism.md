@@ -1,7 +1,8 @@
 ---
 title: 8 Undeniable Errors of Futurism
-description: ''
-images: []
+description: Biblical Symbols
+images:
+- "/images/biblical_symbols.jpg"
 date: 2022-02-07T00:00:00-06:00
 author: V. K. VAN DE VENTER, Ph. M.
 tags:
