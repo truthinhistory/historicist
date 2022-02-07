@@ -1,11 +1,16 @@
 ---
 title: Prophetic Interpretation
-description: meta description
-images: []
+description: Old Library in University of Salamanca where Francisco Ribera taught
+images:
+- "/images/university_of_salamanca.jpg"
 date: 2021-01-25T11:33:57.000+06:00
 author: Charles A. Jennings
-tags: []
-categories: []
+tags:
+- Prophecy
+- Futurism
+- Ribera
+categories:
+- Futurism
 
 ---
 I wish to emphasize the fact that it is my most earnest desire to offer you the truth, the whole truth, and nothing but the truth. For forty-seven years I have prayerfully, studiously, and persistently searched the writings of the foremost prophetic authors in the English-speaking world. After long study and extended search, however, I am led to think that there are many people in this world who are not looking for the truth but rather for possible or assumed facts to bolster up a false theory and a contradictory interpretation.
