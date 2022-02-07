@@ -3,7 +3,7 @@ title: About
 layout: about
 image: images/about.jpg
 caption:
-  enable: true
+  enable: false
   title: I’m Henara Colii, A content writer based in LDN, currently at Bookworm.
 social:
   enable: false
