@@ -6,7 +6,7 @@ images:
 date: 
 author: Admin
 tags:
-- Pegan
+- Pagan
 - Rome
 - Kingdom
 - Heaven
