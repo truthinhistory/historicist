@@ -1,15 +1,16 @@
 ---
-title: "Christs Second Coming and Unfulfilled Prophecies"
-description: "meta description"
+title: Christs Second Coming and Unfulfilled Prophecies
+description: The work represents the Holy Spirit descending and resting on the apostles
+  of Jesus Christ
 images:
-  - "images/post/03.jpg"
-date: 2021-02-03T16:56:47+06:00
-draft: false
-author: "Robert Caringola"
-tags: ["Alarm", "Clock"]
-categories: ["LifeStyle"]
----
+- "/images/pentecost.jpg"
+date: 2022-02-07T00:00:00-06:00
+author: Robert Caringola
+tags: []
+categories:
+- History
 
+---
 A significant error, and the Scriptural responses to that error, are found below.
 Some Preterists believe that although Christ did come at Pentecost (33 AD) and 70 AD, He will make a final appearance at the end of the world (age). Others strongly maintain that His second appearance was a spiritual one in 70 AD and that is the end of it.
 
