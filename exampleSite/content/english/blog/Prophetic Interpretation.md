@@ -14,11 +14,13 @@ I am well aware there are many Futurists in the United States and doubtless ther
 
 ### The Two Principal Schools of Prophetic Interpreters
 
-"We shall not be surprised to find antagonistic schools of prophetic interpre­tation, but, on the contrary, we shall expect such, and we shall expect the apostates and persecutors to belong to one school, and the faithful confessors and martyrs to another. . . . On turning to the history of prophetic interpretation this is precisely what we find.
+>"We shall not be surprised to find antagonistic schools of prophetic interpre­tation, but, on the contrary, we shall expect such, and we shall expect the apostates and persecutors to belong to one school, and the faithful confessors and martyrs to another. . . . On turning to the history of prophetic interpretation this is precisely what we find.
 
-"With many varieties as to detail we find there have existed, and still exist, two great opposite schools of interpretation, the Papal and the Protestant, or the futurist and the historical. The latter regards the prophecies of Daniel, Paul and John as fully and faithfully setting forth the entire course of Christian his­tory; the former as dealing chiefly with a future fragment of time at its close.
+>"With many varieties as to detail we find there have existed, and still exist, two great opposite schools of interpretation, the Papal and the Protestant, or the futurist and the historical. The latter regards the prophecies of Daniel, Paul and John as fully and faithfully setting forth the entire course of Christian history; the former as dealing chiefly with a future fragment of time at its close.
 
-"The former, or futurist, system of interpreting the prophecies is now held, strange to say, by many Protestants, but it was first invented by the Jesuit Ribera, at the end of the sixteenth century, to relieve the Papacy from the ter­rible stigma cast upon it by the Protestant interpretation. This interpretation was so evidently the true and intended one, that the adherents of the Papacy felt its edge must, at any cost, be turned or blunted. If the Papacy were the predicted antichrist, as Protestants asserted, there was an end of the question, and separation from it became an imperative duty."—H. G. Guinness in Romanism and the Reformation, pp. 183 and 184.
+>"The former, or futurist, system of interpreting the prophecies is now held, strange to say, by many Protestants, but it was first invented by the Jesuit Ribera, at the end of the sixteenth century, to relieve the Papacy from the terrible stigma cast upon it by the Protestant interpretation. This interpretation was so evidently the true and intended one, that the adherents of the Papacy felt its edge must, at any cost, be turned or blunted. If the Papacy were the predicted antichrist, as Protestants asserted, there was an end of the question, and separation from it became an imperative duty."
+
+—H. G. Guinness in Romanism and the Reformation, pp. 183 and 184.
 
 ### Definition of Futurism and Futurists
 
