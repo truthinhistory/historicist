@@ -1,9 +1,8 @@
 ---
 title: Historicist Notice
 description: meta description
-images:
-- images/post/03.jpg
-date: 2021-01-25T11:33:57.000+06:00
+images: []
+date: 2022-02-07T00:00:00-06:00
 author: ''
 tags: []
 categories: []
