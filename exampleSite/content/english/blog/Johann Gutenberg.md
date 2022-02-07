@@ -1,18 +1,20 @@
 ---
-title: "Johann Gutenberg"
-description: "meta description"
+title: Johann Gutenberg
+description: Gutenberg Press
 images:
-  - "images/post/03.jpg"
-date: 2021-01-25T11:33:57+06:00
-author: "Lubana Era"
-tags: ["Alarm", "Clock"]
-categories: ["LifeStyle"]
-draft: false
----
+- "/images/gutenberg.jpg"
+date: 2022-02-06T00:00:00-06:00
+author: Admin
+tags:
+- Alarm
+- Clock
+categories:
+- LifeStyle
 
+---
 Johann Gutenberg invented the printing press in the 1450's, and the first book to ever be printed was a Latin language Bible, printed in Mainz, Germany. Gutenberg's Bibles were surprisingly beautiful, as each leaf Gutenberg printed was later colorfully hand-illuminated. Born as "Johann Gensfleisch" (John Gooseflesh), he preferred to be known as "Johann Gutenberg" (John Beautiful Mountain). Ironically, though he had created what many believe to be the most important invention in history, Gutenberg was a victim of unscrupulous business associates who took control of his business and left him in poverty. Nevertheless, the invention of the movable-type printing press meant that Bibles and books could finally be effectively produced in large quantities in a short period of time. This was essential to the success of the Reformation.
 GUTENBERG, JOHANN (c. 1398-1468), German printer, is supposed to have been born 1398-1399 at Mainz of well-to-do parents, his father being Friele zum Gensfleisch and his mother Elsgen Wyrich, whose birthplace "Gutenberg", was the name he adopted. The Germans, and most other people, contend that Gutenberg was the inventor of the art of printing with movable types.
-# Early Life of Johann Gutenberg
+### Early Life of Johann Gutenberg
 Gutenberg's father was a man of good family. Very likely the boy was taught to read. But the books from which he learned were not like ours; they were written by hand. A better name for them than books is "manuscripts," which means "hand-writings."
 While Gutenberg was growing up a new way of making books came into use, which was a great deal better than copying by hand. It was what is called block-printing. The printer first cut a block of hard wood the size of the page that he was going to print. Then he cut out every word of the written page upon the smooth face of his block. This had to be very carefully done. When it was finished the printer had to cut away the wood from the sides of every letter. This left the letters raised, as the letters are in books now printed for the blind. The block was now ready to be used. The letters were inked, paper was laid upon them and pressed down. With blocks the printer could make copies of a book a great deal faster than a man could write them by hand. But the making of the blocks took a long time, and each block would print only one page.
 Gutenberg enjoyed reading the manuscripts and block books that his parents and their wealthy friends had; and he often said it was a pity that only rich people could own books. Finally he determined to contrive some easy and quick way of printing. Gutenberg did a great deal of his work in secret, for he thought it was much better that his neighbors should know nothing of what he was doing. He looked for a workshop where no one would be likely to find him. Gutenberg was now living in Strasburg, and there was in that city a ruined old building where, long before his time, a number of monks had lived. There was one room of the building which needed only a little repairing to make it fit to be used. So Gutenberg got the right to repair that room and use it as his workshop.
