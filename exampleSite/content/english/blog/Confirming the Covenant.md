@@ -1,11 +1,14 @@
 ---
 title: Confirming the Covenant
-description: meta description
-images: []
-date: 
+description: Jesus Tempted in the Wilderness
+images:
+- "/images/jesus_temptation.jpg"
+date: 2022-02-07T00:00:00-06:00
 author: Admin
-tags: []
-categories: []
+tags:
+- Jesus Christ
+categories:
+- Prophecy
 
 ---
 ### Who Confirms the Covenant?
