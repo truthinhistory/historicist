@@ -4,7 +4,7 @@ description: View from the Backs of New Court, Bridge of Sighs, Old Library, Thi
   Court, Buttery and Chapel of St John's College, Cambridge.
 images:
 - "/images/st_johns_college_cabridge.jpg"
-date: 2021-01-25T11:33:57.000+06:00
+date: 2022-02-07T00:00:00-06:00
 author: V. K. VAN DE VENTER, Ph.M.
 tags:
 - Bible
