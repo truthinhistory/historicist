@@ -3,7 +3,7 @@ title: Sit . . . Until . . . The Multiple Witness of Scripture
 description: Four Horsemen of Apocalypse
 images:
 - "/images/four_horsemen_apocalypse.jpg"
-date: 2022-02-06T00:00:00-06:00
+date: 2022-02-06T00:00:00.000-06:00
 author: Robert Caringola
 tags:
 - Historicist
@@ -12,7 +12,7 @@ categories:
 - Historicism
 
 ---
-1. The LORD said unto my Lord, **Sit** thou at my right hand, **until** I make thine enemies thy footstool.
+1. The LORD said unto my Lord, **Sit** thou at my right hand, **until** I make thine enemies thy footstool. 
 2. The LORD shall send the rod of thy strength out of Zion: **rule thou in the midst of thine enemies**.
 3. **Thy people shall be willing in the day of thy power**... **Psalm 110**
 
