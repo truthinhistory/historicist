@@ -2,7 +2,7 @@ contact_form_action = "#"
 copyright = "Copyright &copy; 2010-2022 by Truth in History"
 custom_script = ""
 favicon = "images/favicon.png"
-google_tag_manager = ""
+google_tag_manager = "GTM-M92CMD9"
 image_gallery = false
 logo = "images/logo.png"
 logo_text = "Historicist"
@@ -77,18 +77,18 @@ visitor = true
 [widgets]
 sidebar = ["search", "categories", "tags"]
 [[social]]
+icon = "fab fa-facebook"
+link = "#"
 title = "facebook"
-icon = "fab fa-facebook"  # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
 [[social]]
+icon = "fab fa-twitter"
+link = "#"
 title = "twitter"
-icon = "fab fa-twitter"  # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
 [[social]]
+icon = "fab fa-instagram"
+link = "#"
 title = "instagram"
-icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
 [[social]]
-title = "linkedin"
-icon = "fab fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
+icon = "fab fa-linkedin"
 link = "#"
+title = "linkedin"
