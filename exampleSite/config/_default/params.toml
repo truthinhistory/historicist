@@ -77,10 +77,18 @@ visitor = true
 [widgets]
 sidebar = ["search", "categories", "tags"]
 [[social]]
-icon = "fab fa-soundcloud"
-link = "https://soundcloud.com/truth-in-history"
-title = "soundcloud"
+title = "facebook"
+icon = "fab fa-facebook"  # fontawesome icon pack : https://fontawesome.com/icons/
+link = "#"
 [[social]]
-icon = "fab fa-youtube"
-link = "https://www.youtube.com/channel/UCjrdGab0LFLLEVKxJM8usCg"
-title = "youtube"
+title = "twitter"
+icon = "fab fa-twitter"  # fontawesome icon pack : https://fontawesome.com/icons/
+link = "#"
+[[social]]
+title = "instagram"
+icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "#"
+[[social]]
+title = "linkedin"
+icon = "fab fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "#"
